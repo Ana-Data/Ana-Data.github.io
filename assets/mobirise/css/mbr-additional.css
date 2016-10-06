@@ -651,6 +651,12 @@
 #header3-1 .mbr-section-subtitle {
   text-align: center;
 }
+#extFeatures12-1 .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-1 .wraper {
+  border-color: undefined !important;
+}
 #header3-2 .mbr-section-title,
 #header3-2 .mbr-section-subtitle {
   text-align: center;
