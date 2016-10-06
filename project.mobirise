@@ -2151,7 +2151,7 @@
             "overlayColor": "#151515",
             "showTitles": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-0\" aria-expanded=\"true\">Overview</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-0\" aria-expanded=\"false\">Offerings</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-0\" aria-expanded=\"false\">Resources</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-0\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-0\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-0\" aria-expanded=\"false\">Offerings</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-0\" aria-expanded=\"true\">Resources</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-0\">Beautiful</a></li>",
           "title1": "Let Your Data Work For You",
           "text1": "Whether data is local, in the cloud or both, you are quickly inundated with massive amounts of information. Social media, intranet collaboration systems and other data sources pose big challenges. But the volume, velocity, variety and complexity of Big data can also be a huge corporate asset that you must exploit in order to thrive.<br><br>Don't get buried. We have the experience, skills and tools you require to turn your business problems into business insights.<br>",
           "title2": "Big Data Strategic Overview",
@@ -2527,52 +2527,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Ana-Data Consulting. All rights reserved."
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_name": "extHeader5",
-          "_anchor": "extHeader5-0",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/video-main-2000x1000-35.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/MZkUTOeIXPA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#fff",
-            "showTitle": true,
-            "showText": true,
-            "showVideo": true,
-            "showButtons": true,
-            "showArrow": true,
-            "VideoUrl": "https://www.youtube.com/watch?v=kbb2snEaALU"
-          },
-          "title": "See and understand your data with Clear Analytics",
-          "text": "<b>Create and share data insights across your company</b>",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/play-button.svg"
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "text2": "<label class=\"startPreset\" for=\"modal\">SEE IN ACTION</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
