@@ -196,7 +196,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -234,10 +234,13 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#000",
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#9c9a9a",
+              "text-align": "left"
             }
           },
           "_tags": [
