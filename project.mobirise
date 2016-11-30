@@ -25,7 +25,7 @@
     "scrollAnimation": "true",
     "publishType": "local",
     "publishPath": "file:///C:/Users/pawan/Desktop/ana-data.github.io",
-    "uniqCompNum": 46
+    "uniqCompNum": 48
   },
   "pages": {
     "index.html": {
@@ -157,6 +157,14 @@
             "Extension"
           ],
           "_name": "extHeader11",
+          "_styles": {
+            "SPAN": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#28324e"
+            }
+          },
           "_anchor": "extHeader11-19",
           "_params": {
             "animText1": "BUSINESS TRANSFORMATION",
@@ -182,15 +190,83 @@
           },
           "title": "DRIVING<br>",
           "text": "We are the enablers.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>"
+        },
+        {
+          "_inherit": "header1",
           "_styles": {
-            "SPAN": {
-              "color": "#000000"
+            ".mbr-section-title": {
+              "color": "#000"
             },
-            "P": {
-              "color": "#28324e"
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "YOUR ADVANCED ANALYTICS PARTNER",
+          "text": "Leverage Ana-Data CLEAR Platform to discover insights and generate reports.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.clearanalyticsbi.com/free-trial/\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "PROVIDING THE EXPERTISE",
+          "text": "Find the right people at the right time with Ana-Data.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.clearanalyticsbi.com/free-trial/\" data-toolbar=\"-mbrBtnMove\">FIND OUT</a>"
         }
       ]
     },
@@ -3446,14 +3522,6 @@
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-11",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be a Host</b></p><p><br></p><p>Collaborative. Anticipates the needs of others. Prepared. Authentic. Listens. Advocates and eliminates interference for others. Considers the whole person. Humble.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every Frame Matters</b></p><p><br></p><p>Thinks holistically. Rigorous about quality. Appreciates the details and prioritizes the right ones.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Simplify</b></p><p><br></p><p>Prioritizes. Distills a problem to its essence. Makes and communicates clear decisions.</p>",
-          "text2": "<b>Champion the Mission</b><div><br></div><div>Passionate. Committed. Optimistic. Puts the Airbnb community first. Takes ownership and delivers results. Perpetuates belonging.</div><div><br></div><div><br></div><div><br></div><div><b>Be a \"Cereal\" Entrepreneur</b></div><div><br></div><div>Creative. Embraces constraints. Solution-oriented. Tenacious.</div><div><br></div><div><br></div><div><br></div><div><b>Embrace the Adventure</b></div><div><br></div><div>Flexible. Risk tolerant. Always learning. Curious. Open-minded. Brings joy to their work.</div>",
           "_styles": {
             "P": {
               "text-align": "left"
@@ -3461,7 +3529,15 @@
             "DIV": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "content6-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be a Host</b></p><p><br></p><p>Collaborative. Anticipates the needs of others. Prepared. Authentic. Listens. Advocates and eliminates interference for others. Considers the whole person. Humble.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every Frame Matters</b></p><p><br></p><p>Thinks holistically. Rigorous about quality. Appreciates the details and prioritizes the right ones.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Simplify</b></p><p><br></p><p>Prioritizes. Distills a problem to its essence. Makes and communicates clear decisions.</p>",
+          "text2": "<b>Champion the Mission</b><div><br></div><div>Passionate. Committed. Optimistic. Puts the Airbnb community first. Takes ownership and delivers results. Perpetuates belonging.</div><div><br></div><div><br></div><div><br></div><div><b>Be a \"Cereal\" Entrepreneur</b></div><div><br></div><div>Creative. Embraces constraints. Solution-oriented. Tenacious.</div><div><br></div><div><br></div><div><br></div><div><b>Embrace the Adventure</b></div><div><br></div><div>Flexible. Risk tolerant. Always learning. Curious. Open-minded. Brings joy to their work.</div>"
         },
         {
           "_styles": {
@@ -3507,6 +3583,17 @@
             "Extension"
           ],
           "_name": "extFeatures10",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#333333"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extFeatures10-14",
           "_params": {
             "iconsColor": "#333333",
@@ -3672,17 +3759,6 @@
               "size": 0,
               "color": "#666666",
               "family": "et-line"
-            }
-          },
-          "_styles": {
-            ".etl-icon": {
-              "color": "#333333"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
             }
           }
         }
