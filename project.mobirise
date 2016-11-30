@@ -25,7 +25,7 @@
     "scrollAnimation": "true",
     "publishType": "local",
     "publishPath": "file:///C:/Users/pawan/Desktop/ana-data.github.io",
-    "uniqCompNum": 48
+    "uniqCompNum": 49
   },
   "pages": {
     "index.html": {
@@ -191,6 +191,43 @@
           "title": "DRIVING<br>",
           "text": "We are the enablers.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "YOUR ADVANCED ANALYTICS PARTNER",
+          "text": "Leverage Ana-Data CLEAR platform to discover insights and generate reports.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.clearanalyticsbi.com/free-trial/\" data-toolbar=\"-mbrBtnMove\">&nbsp;DOWNLOAD NOW</a> ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
