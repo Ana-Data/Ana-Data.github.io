@@ -1208,6 +1208,9 @@ h6,
 #extFeatures12-0 .wraper {
   border-color: undefined !important;
 }
+#extFeatures12-0 .card-number {
+  color: #c0a375;
+}
 #header3-1 .mbr-section-title,
 #header3-1 .mbr-section-subtitle {
   text-align: center;
@@ -1217,6 +1220,9 @@ h6,
 }
 #extFeatures12-1 .wraper {
   border-color: undefined !important;
+}
+#extFeatures12-1 .card-number {
+  color: #c0a375;
 }
 #header3-2 .mbr-section-title,
 #header3-2 .mbr-section-subtitle {

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -425,7 +425,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET FREE TRIAL</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -1264,7 +1264,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/black-5333x4042-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ad-logo2-1125x675-28.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -2033,7 +2033,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/buscard-375x234-92.png",
+              "src": "@PROJECT_PATH@/assets/images/ad-logo2-1125x675-64.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -2096,6 +2096,9 @@
             },
             ".wraper": {
               "border-color": "undefined !important"
+            },
+            ".card-number": {
+              "color": "@primaryColor"
             }
           },
           "_anchor": "extFeatures12-0",
@@ -2264,6 +2267,9 @@
             },
             ".wraper": {
               "border-color": "undefined !important"
+            },
+            ".card-number": {
+              "color": "@primaryColor"
             }
           },
           "_anchor": "extFeatures12-1",
