@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services.html",
+    "currentPage": "about.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -197,6 +197,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-1c",
           "_params": {
             "parallax": true,
@@ -219,15 +227,7 @@
           },
           "title": "YOUR ADVANCED ANALYTICS PARTNER",
           "text": "Leverage Ana-Data CLEAR platform to discover insights and generate reports.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.clearanalyticsbi.com/free-trial/\" data-toolbar=\"-mbrBtnMove\">&nbsp;DOWNLOAD NOW</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.clearanalyticsbi.com/free-trial/\" data-toolbar=\"-mbrBtnMove\">&nbsp;DOWNLOAD NOW</a> "
         },
         {
           "_inherit": "msg-box8",
@@ -425,7 +425,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -2574,7 +2574,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#000000"
             },
             ".lead P": {
               "color": "#28324e"
