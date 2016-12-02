@@ -1198,38 +1198,32 @@ h6,
 #extFeatures8-0 DIV {
   text-align: left;
 }
-#header3-0 .mbr-section-title,
-#header3-0 .mbr-section-subtitle {
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
   text-align: center;
 }
-#extFeatures12-0 .mbr-iconfont-features4 {
-  color: undefined !important;
+#content1-1h P {
+  font-size: 17px;
 }
-#extFeatures12-0 .wraper {
-  border-color: undefined !important;
+#extTabs1-1f P {
+  text-align: left;
 }
-#extFeatures12-0 .card-number {
-  color: #c0a375;
-}
-#header3-1 .mbr-section-title,
-#header3-1 .mbr-section-subtitle {
-  text-align: center;
-}
-#extFeatures12-1 .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-1 .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-1 .card-number {
-  color: #c0a375;
+#extTabs1-1f H3 {
+  color: #545050;
 }
 #header3-2 .mbr-section-title,
 #header3-2 .mbr-section-subtitle {
   text-align: center;
 }
+#extTabs1-1i P {
+  text-align: left;
+}
 #header3-3 .mbr-section-title,
 #header3-3 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
   text-align: center;
 }
 
