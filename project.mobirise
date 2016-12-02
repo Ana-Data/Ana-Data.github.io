@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services.html",
+    "currentPage": "products.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -1344,9 +1344,9 @@
           "_name": "header3",
           "_anchor": "header3-1",
           "_params": {
-            "paddingTop": "6",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Investment Management Solutions<br>",
@@ -1563,12 +1563,12 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "BIG DATA ANALYTICS",
+          "title": "Big Data Analytics",
           "meta": ""
         },
         {
@@ -1605,7 +1605,7 @@
           "title1": "Let Your Data Work For You",
           "text1": "Whether data is local, in the cloud or both, you are quickly inundated with massive amounts of information. Social media, intranet collaboration systems and other data sources pose big challenges. But the volume, velocity, variety and complexity of Big data can also be a huge corporate asset that you must exploit in order to thrive.<br><br>Don't get buried. We have the experience, skills and tools you require to turn your business problems into business insights.<br>",
           "title2": "Big Data Strategic Overview",
-          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems, identity threat management.<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><b>Life Sciences:</b> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;real-world evidence, translational sciences and imaging.</p><p><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br>Communication, Media and Entertainment: Discover churn patterns, digital asset management (DAM)</p><b>Big Data Industry Solutions:<br></b><br>Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.<br><br><p><br></p><br><p><b><br></b></p><p><b><br></b><br></p>",
+          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems, identity threat management</p><p><b>Life Sciences:</b><span style=\"font-size: 1rem; line-height: 1.5;\"> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing and real world evidence, translational sciences and imaging., &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br>Communication, Media and Entertainment: Discover churn patterns, digital asset management (DAM)</p><b>Big Data Industry Solutions:<br></b><br>Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.<br><br><p><br></p><br><p><b><br></b></p><p><b><br></b><br></p>",
           "title3": "Big Data Services",
           "text3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Our Enterprise Information Management practice has built a robust set of big data service offerings to cater to customer needs.</span><br><br><b>Big data strategy and roadmap definition<br>Technology evaluation and piloting<br>Data visualization and analytics<br>Idea to implementation<br>Big data lab on demand<br>Solution accelerators</b><br>",
           "title4": "Tab heading 4",
@@ -1624,12 +1624,12 @@
           "_name": "header3",
           "_anchor": "header3-2",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "RISK MANAGEMENT",
+          "title": "Risk Management",
           "meta": ""
         },
         {
@@ -1739,12 +1739,12 @@
           "_name": "header3",
           "_anchor": "header3-3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
             "showMeta": false
           },
-          "title": "MIDDLE AND BACK OFFICE",
+          "title": "Middle and Back Office",
           "meta": ""
         },
         {
@@ -1824,7 +1824,7 @@
           },
           "title2": "Pricing Exception",
           "subtitle2": "Get your price right",
-          "caption2": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
+          "caption2": "We help solutions with to handle pricing exceptiongs and reporting for trade approvals, OTC settlements among others.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1855,7 +1855,7 @@
           },
           "title4": "Borrow Master",
           "subtitle4": "Get your price right",
-          "caption4": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution."
+          "caption4": "Our custom solution help you keep an updated master file of all your borrow transactions and further optimize your portfolio."
         }
       ]
     },
