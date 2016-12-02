@@ -1077,6 +1077,9 @@ h6,
 #extFeatures4-0 P {
   text-align: left;
 }
+#extFeatures4-0 H4 {
+  text-align: left;
+}
 #extFeatures4-1 .mbr-iconfont-features4 {
   color: undefined !important;
 }
@@ -1084,6 +1087,9 @@ h6,
   border-color: undefined !important;
 }
 #extFeatures4-1 P {
+  text-align: left;
+}
+#extFeatures4-1 H4 {
   text-align: left;
 }
 #header3-0 .mbr-section-title,

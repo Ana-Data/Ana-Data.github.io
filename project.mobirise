@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "products.html",
+    "currentPage": "services.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -1349,7 +1349,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Investment Management Solutions",
+          "title": "Investment Management Solutions<br>",
           "meta": ""
         },
         {
@@ -1363,6 +1363,9 @@
               "border-color": "undefined !important"
             },
             "P": {
+              "text-align": "left"
+            },
+            "H4": {
               "text-align": "left"
             }
           },
@@ -1400,7 +1403,7 @@
               "family": "et-line"
             }
           },
-          "title1": "Portfolio Management &amp; Reporting",
+          "title1": "Portfolio Management",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1417,7 +1420,7 @@
           },
           "title2": "Trade &amp; Order Management",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
+          "caption2": "We provide customized solutions designed to execute securities orders in an efficient and cost effective manner providing delightful user experience.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1432,7 +1435,7 @@
           },
           "title3": "Performance Analytics",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
+          "caption3": "Our Performance Analytics provide secure, simple access to key performance indicators (KPIs) and metrics that enable yo uto be proactive about imporving business services.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1447,7 +1450,7 @@
           },
           "title4": "Compliance",
           "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
+          "caption4": "Our custom solutions are designed to meet your regulatory compliance, Tax Rating and Tax preparation needs.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1461,6 +1464,9 @@
               "border-color": "undefined !important"
             },
             "P": {
+              "text-align": "left"
+            },
+            "H4": {
               "text-align": "left"
             }
           },
@@ -1500,7 +1506,7 @@
           },
           "title1": "Asset Allocation",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
+          "caption1": "Ana-data offers assest allocation solutions to enhance your portfolio and create a consistent investment structure to help you stay focused on long-term goals.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1515,7 +1521,7 @@
           },
           "title2": "Custody Data",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
+          "caption2": "We ensure defensible collection using the industry's most advanced tools, strictly adhering to chain of custody, data integiry and cost considerations.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1530,7 +1536,7 @@
           },
           "title3": "Client Portfolio Data",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
+          "caption3": "Our portfolio data solutions provide firms with a complete picture of their entire book of business by delivering an automated, reconciled source of portfolio and KPIs.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1545,7 +1551,7 @@
           },
           "title4": "Benchmark Data",
           "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
+          "caption4": "We provide customized solutions to make sure accurate benchmark data is delivered to you with precision for precise data analysis.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1595,13 +1601,13 @@
             "overlayColor": "#151515",
             "showTitles": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-0\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-0\" aria-expanded=\"true\">Offerings</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-0\" aria-expanded=\"true\">Resources</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-0\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-0\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-0\" aria-expanded=\"true\">Offerings</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-0\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-0\">Beautiful</a></li>",
           "title1": "Let Your Data Work For You",
           "text1": "Whether data is local, in the cloud or both, you are quickly inundated with massive amounts of information. Social media, intranet collaboration systems and other data sources pose big challenges. But the volume, velocity, variety and complexity of Big data can also be a huge corporate asset that you must exploit in order to thrive.<br><br>Don't get buried. We have the experience, skills and tools you require to turn your business problems into business insights.<br>",
           "title2": "Big Data Strategic Overview",
-          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems, identity threat management,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-size: 1rem; line-height: 1.5;\">claims fraud monitoring</span></p><p><b>Life Sciences:</b> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;real-world evidence, translational sciences and imaging<br><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br>Communication, Media and Entertainment: Discover churn patterns, digital asset management (DAM)</p><b>Big Data Industry Solutions:<br></b><br>Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.<br><br><p><b>Big Data Services</b><br><br>Our Enterprise Information Management practice has built a robust set of big data service offerings to cater to customer needs.<br><br><b>Big data strategy and roadmap definition<br>Technology evaluation and piloting<br>Data visualization and analytics<br>Idea to implementation<br>Big data lab on demand<br>Solution accelerators</b></p><br><p><b><br></b></p><p><b><br></b><br></p>",
-          "title3": "Our Experts Discuss Industry Trends, Perspectives and Solutions",
-          "text3": "Content to come here.",
+          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems, identity threat management.<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><b>Life Sciences:</b> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;real-world evidence, translational sciences and imaging.</p><p><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br>Communication, Media and Entertainment: Discover churn patterns, digital asset management (DAM)</p><b>Big Data Industry Solutions:<br></b><br>Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.<br><br><p><br></p><br><p><b><br></b></p><p><b><br></b><br></p>",
+          "title3": "Big Data Services",
+          "text3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Our Enterprise Information Management practice has built a robust set of big data service offerings to cater to customer needs.</span><br><br><b>Big data strategy and roadmap definition<br>Technology evaluation and piloting<br>Data visualization and analytics<br>Idea to implementation<br>Big data lab on demand<br>Solution accelerators</b><br>",
           "title4": "Tab heading 4",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title5": "Tab heading 5",
@@ -1676,7 +1682,7 @@
           },
           "title1": "Market Risk",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
+          "caption1": "Ana-Data's Market Risk solutions help you achieve insight and transparency into your market risk exposures, from clearing and settlement costs and uncertainities.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1691,7 +1697,7 @@
           },
           "title2": "Credit Risk",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
+          "caption2": "Ana-Data's solutions provide lenders with credit risk solutions and risk analytics with the simple portfolio measures. It also accomodates a path to more sophisticated credit risk management.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1706,7 +1712,7 @@
           },
           "title3": "Risk Analytics &amp; Reporting",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
+          "caption3": "Our customized service is provided by seasoned risk professionals, whose skill comes from providing more than $100 billion * across portfolios Take advantate of our solution and get the insight you need to make better decisions..",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1721,7 +1727,7 @@
           },
           "title4": "FAS/SEC Reporting",
           "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
+          "caption4": "We help companies meet their financial reporting requirements efficiently by&nbsp;streamlining the end-to-end process; from managing content to translation, design, typesetting, print, personalisation and mailing.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1802,7 +1808,7 @@
           },
           "title1": "Price Master",
           "subtitle1": "Get your price right<br>",
-          "caption1": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
+          "caption1": "Advanced system developed to automate the daily valuation securities and corporate rules.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1816,7 +1822,7 @@
               "color": "#e6e6e6"
             }
           },
-          "title2": "Pricing Exceptoin",
+          "title2": "Pricing Exception",
           "subtitle2": "Get your price right",
           "caption2": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -1834,7 +1840,7 @@
           },
           "title3": "Security Master",
           "subtitle3": "Get your price right",
-          "caption3": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution.",
+          "caption3": "Security Master solution combines several pre-built components, including Normalization, IdLinkHub, Data Warehouse, and Data Distribution for all of the major vendor sources. Many clients take it a step further and work with our Engineering team to customize their solutions.",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1872,7 +1878,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1m",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -2167,7 +2173,7 @@
           "_name": "content1",
           "_anchor": "content1-1h",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
@@ -2246,7 +2252,7 @@
           "_name": "content1",
           "_anchor": "content1-2",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
