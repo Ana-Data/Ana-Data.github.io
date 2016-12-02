@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services.html",
+    "currentPage": "products.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -25,7 +25,7 @@
     "scrollAnimation": "true",
     "publishType": "local",
     "publishPath": "file:///C:/Users/pawan/Desktop/ana-data.github.io",
-    "uniqCompNum": 57
+    "uniqCompNum": 59
   },
   "pages": {
     "index.html": {
@@ -425,7 +425,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -1058,6 +1058,41 @@
       },
       "components": [
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1l",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Services",
+          "text": "<p>Decades of experience in delivering technology solutoins.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1215,7 +1250,7 @@
           "_name": "extFeatures8",
           "_anchor": "extFeatures8-0",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": false,
@@ -1229,8 +1264,8 @@
             "overlay": false,
             "overlayOpacity": 0.75,
             "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true
+            "showTitle": false,
+            "showSubtitle": false
           },
           "title": "Services",
           "subtitle": "Decades of experience in delivering technology solutoins.",
@@ -1825,6 +1860,41 @@
       },
       "components": [
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1m",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Products",
+          "text": "<p>Products based on our CLEAR Platform</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1983,7 +2053,7 @@
           "_name": "extFeatures8",
           "_anchor": "extFeatures8-0",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": false,
@@ -1997,8 +2067,8 @@
             "overlay": false,
             "overlayOpacity": 0.75,
             "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true
+            "showTitle": false,
+            "showSubtitle": false
           },
           "title": "Products",
           "subtitle": "Products based on our CLEAR Platform",

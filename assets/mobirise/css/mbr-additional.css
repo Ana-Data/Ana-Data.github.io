@@ -979,6 +979,10 @@ h6,
   background-color: #000000;
 }
 
+#msg-box3-1l .mbr-section-title,
+#msg-box3-1l p {
+  color: #000;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1116,6 +1120,10 @@ h6,
   border-color: #e6e6e6 !important;
 }
 
+#msg-box3-1m .mbr-section-title,
+#msg-box3-1m p {
+  color: #000;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
