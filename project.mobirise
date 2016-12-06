@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "products.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -149,7 +149,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Ana-Data Consulting. All rights reserved."
+          "text": "Copyright (c) 2017 Ana-Data Consulting. All rights reserved."
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -383,7 +383,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Ana-Data Consulting. All rights reserved."
+          "text": "Copyright (c) 2017 Ana-Data Consulting. All rights reserved."
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -425,7 +425,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET FREE TRIAL</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -440,7 +440,7 @@
           },
           "title1": "&nbsp;We would love to hear from you or visit us at our offices.",
           "subTitle1": "",
-          "text1": "Phone: +1 &nbsp;201 324 3910&nbsp;<br> Email: sales@ana-data.com",
+          "text1": "Phone: +1 &nbsp;(201)-324-3910&nbsp;<br> Email: sales@ana-data.com",
           "form": {
             "action": "pawandeep.me@gmail.com",
             "alerts": {
@@ -482,9 +482,9 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text1": "<p><b>US Headquarters</b></p><p><br></p><p>Ana-Data Consulting, Inc.</p><p>30 Montgomery St<span style=\"font-size: 1.07rem; line-height: 1.5;\">Suite 1245</span></p><p>Jersey City, NJ<span style=\"font-size: 1.07rem; line-height: 1.5;\">07302</span></p><p><br></p><p>Phone :\t+1 (201) 324-3910</p><p>Fax :\t+1 (551)-236-1014</p><p>Email :\tsales@ana-data.com</p><p><br></p>",
-          "text2": "<p><b>Canada Office</b></p><p><br></p><p>Ana-Data Consulting, Inc.</p><p>161 Bay St. Suite #2697&nbsp;</p><p>Toronto, Ontario M5J 2S1</p><p><br></p><p>Phone :\t+1 (201) 324-3910</p><p>Fax :\t+1 (551)-236-1014</p><p>Email :\tsales@ana-data.com</p><p><br></p>",
-          "text3": "<p><b>Offshore Office</b></p><p><br></p><p>Clear R&amp;D</p><p>E7, 1st Floor, Sector - 3&nbsp;</p><p>Noida, UP, India.<span style=\"font-size: 1.07rem; line-height: 1.5;\">201303</span></p><p><br></p><p>Phone :\t+1 (609)-454-8993</p><p>Email :\tsales@ana-data.com</p><p><br></p>"
+          "text1": "<p><b>US Headquarters</b></p><p><br></p><p>Ana-Data Consulting, Inc.</p><p>30 Montgomery St.., &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Suite # 1245</span></p><p>Jersey City, NJ -&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">07302</span></p><p><br></p><p>Phone :\t+1 (201) 324-3910</p><p>Fax :\t+1 (551)-236-1014</p><p>Email :\tsales@ana-data.com</p><p><br></p>",
+          "text2": "<p><b>Canada Office</b></p><p><br></p><p>Ana-Data Consulting, Inc.</p><p>161 Bay St. Suite # 2697&nbsp;</p><p>Toronto, Ontario. M5J 2S1</p><p><br></p><p>Phone :\t+1 (201) 324-3910</p><p>Fax :\t+1 (551)-236-1014</p><p>Email :\tsales@ana-data.com</p><p><br></p>",
+          "text3": "<p><b>Offshore Office</b></p><p><br></p><p>Clear R&amp;D</p><p>E7, 1st Floor, Sector - 3&nbsp;</p><p>Noida, UP, India. .<span style=\"font-size: 1.07rem; line-height: 1.5;\">201303</span></p><p><br></p><p>Phone :\t+1 (609)-454-8993</p><p>Email :\tsales@ana-data.com</p><p><br></p>"
         },
         {
           "_styles": {
@@ -510,7 +510,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -2011,7 +2011,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Ana-Data Consulting. All rights reserved."
+          "text": "Copyright (c) 2017 Ana-Data Consulting. All rights reserved."
         },
         {
           "_styles": {
@@ -2171,18 +2171,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content1-1h",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>An easy to use yet powerful tool that allows users to create complex queries required to produce the appropriate datasets from databases and any other data source. Has a very familiar Microsoft Office look and feel that allows users to start working with minimal instruction.&nbsp;<span style=\"line-height: 1.5;\">Generate complex SQL queries using a simple drag &amp; drop interface. Users have fast, accurate, real-time access to critical data. Informed business decisions process speeded up.</span></p><p><br></p>",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          }
+          "text": "<p>An easy to use yet powerful tool that allows users to create complex queries required to produce the appropriate datasets from databases and any other data source. Has a very familiar Microsoft Office look and feel that allows users to start working with minimal instruction.&nbsp;<span style=\"line-height: 1.5;\">Generate complex SQL queries using a simple drag &amp; drop interface. Users have fast, accurate, real-time access to critical data. Informed business decisions process speeded up.</span></p><p><br></p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2190,6 +2190,14 @@
             "Extension"
           ],
           "_name": "extTabs1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#545050"
+            }
+          },
           "_anchor": "extTabs1-1f",
           "_params": {
             "tabs": "3",
@@ -2221,15 +2229,7 @@
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "color": "#545050"
-            }
-          }
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
         },
         {
           "_styles": {
@@ -2264,6 +2264,11 @@
             "Extension"
           ],
           "_name": "extTabs1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extTabs1-1i",
           "_params": {
             "tabs": "3",
@@ -2295,12 +2300,7 @@
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
         },
         {
           "_styles": {
@@ -3138,7 +3138,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Ana-Data Consulting. All rights reserved."
+          "text": "Copyright (c) 2017 Ana-Data Consulting. All rights reserved."
         },
         {
           "_inherit": "msg-box8",
