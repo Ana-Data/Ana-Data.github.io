@@ -1349,6 +1349,10 @@ h6,
 #header3-1 .mbr-section-subtitle {
   text-align: center;
 }
+#social-buttons2-1p .mbr-section-title,
+#social-buttons2-1p .btn-social {
+  color: #232323;
+}
 
 #menu-u .hide-buttons .nav-btn {
   display: none !important;

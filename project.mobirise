@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "services.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -25,7 +25,7 @@
     "scrollAnimation": "true",
     "publishType": "local",
     "publishPath": "file:///C:/Users/pawan/Desktop/ana-data.github.io",
-    "uniqCompNum": 59
+    "uniqCompNum": 62
   },
   "pages": {
     "index.html": {
@@ -425,7 +425,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -740,12 +740,12 @@
           "_name": "extTestimonials5",
           "_params": {
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "7",
             "paddingTop": 2,
             "paddingBottom": 1,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/jpmorgan-logo-762x203-20.jpg",
@@ -823,7 +823,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/ubs-logo-160x61-77.png",
@@ -1282,7 +1282,7 @@
               "family": "et-line"
             }
           },
-          "feature_title2": "<p><a href=\"services.html#extFeatures4-2\" class=\"text-black\">Risk Management</a></p>",
+          "feature_title2": "<p><a href=\"services.html#extTabs1-0\" class=\"text-black\">Risk Management</a></p>",
           "feature_subtitle2": "Optimize your risk.",
           "feature_text2": "In response to evolving regulatory reporting requirements, our team has delivered complex reporting systems that are easy to use via leveraging our CLEAR Analytics solution.",
           "media2": {
@@ -1318,7 +1318,7 @@
               "color": "#c0a375"
             }
           },
-          "feature_title4": "<p><a href=\"services.html#extTabs1-0\" class=\"text-black\">Big Data Analytics</a></p>",
+          "feature_title4": "<p><a href=\"services.html#header3-1\" class=\"text-black\">Big Data Analytics</a></p>",
           "feature_subtitle4": "We love big data",
           "feature_text4": "Big data is becoming a must have source of competitive advantage for businesses. Let us help you define and deliver your big data strategy.",
           "media5": {
@@ -1605,7 +1605,7 @@
           "title1": "Let Your Data Work For You",
           "text1": "Whether data is local, in the cloud or both, you are quickly inundated with massive amounts of information. Social media, intranet collaboration systems and other data sources pose big challenges. But the volume, velocity, variety and complexity of Big data can also be a huge corporate asset that you must exploit in order to thrive.<br><br>Don't get buried. We have the experience, skills and tools you require to turn your business problems into business insights.<br>",
           "title2": "Big Data Strategic Overview",
-          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems, identity threat management</p><p><b>Life Sciences:</b><span style=\"font-size: 1rem; line-height: 1.5;\"> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing and real world evidence, translational sciences and imaging., &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br>Communication, Media and Entertainment: Discover churn patterns, digital asset management (DAM)</p><b>Big Data Industry Solutions:<br></b><br>Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.<br><br><p><br></p><br><p><b><br></b></p><p><b><br></b><br></p>",
+          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems, identity threat management</p><p><b>Life Sciences:</b><span style=\"font-size: 1rem; line-height: 1.5;\"> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing and real world evidence, translational sciences and imaging., &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br></p><p><b>Media and Entertainment:</b> Discover churn patterns, digital asset management (DAM).<br><b><br>Big Data Industry Solutions:&nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br></span><span style=\"font-size: 1rem; line-height: 1.5;\"><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.</span></p><br><p><br></p><br><p><b><br></b></p><p><b><br></b><br></p>",
           "title3": "Big Data Services",
           "text3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Our Enterprise Information Management practice has built a robust set of big data service offerings to cater to customer needs.</span><br><br><b>Big data strategy and roadmap definition<br>Technology evaluation and piloting<br>Data visualization and analytics<br>Idea to implementation<br>Big data lab on demand<br>Solution accelerators</b><br>",
           "title4": "Tab heading 4",
@@ -1801,9 +1801,10 @@
               "name": "wallet",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#e6e6e6"
+              "color": "#e6e6e6",
+              "newWindow": false
             }
           },
           "title1": "Price Master",
@@ -1817,9 +1818,10 @@
               "name": "presentation",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#e6e6e6"
+              "color": "#e6e6e6",
+              "newWindow": false
             }
           },
           "title2": "Pricing Exception",
@@ -1833,9 +1835,10 @@
               "name": "key",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#e6e6e6"
+              "color": "#e6e6e6",
+              "newWindow": false
             }
           },
           "title3": "Security Master",
@@ -1848,9 +1851,10 @@
               "name": "toolbox",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#e6e6e6"
+              "color": "#e6e6e6",
+              "newWindow": false
             }
           },
           "title4": "Borrow Master",
@@ -2078,7 +2082,7 @@
           },
           "title": "Products",
           "subtitle": "Products based on our CLEAR Platform",
-          "feature_title1": "<p><a href=\"products.html#header3-0\" class=\"text-black\">Clear Query</a></p>",
+          "feature_title1": "<p><a href=\"products.html#header3-1g\" class=\"text-black\">Clear Query</a></p>",
           "feature_subtitle1": "Creative and intelligent solutions",
           "feature_text1": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry",
           "media1": {
@@ -2092,7 +2096,7 @@
               "color": "@primaryColor"
             }
           },
-          "feature_title2": "<p><a href=\"products.html#header3-2\" class=\"text-black\">Clear Reconciliation</a></p>",
+          "feature_title2": "<p><a href=\"products.html#header3-3\" class=\"text-black\">Clear Reconciliation</a></p>",
           "feature_subtitle2": "Reconcile &nbsp;your billing&nbsp;",
           "feature_text2": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry",
           "media2": {
@@ -2128,7 +2132,7 @@
               "color": "@primaryColor"
             }
           },
-          "feature_title4": "<p><a href=\"products.html#header3-2\" class=\"text-black\">Clear&nbsp;</a>Entry</p>",
+          "feature_title4": "<p><a href=\"products.html#header3-2\" class=\"text-black\">Clear Entry</a><a href=\"products.html#header3-2\" class=\"text-black\"></a></p>",
           "feature_subtitle4": "Helps you capture data accurately.",
           "feature_text4": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry",
           "media5": {
@@ -2516,7 +2520,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "WHO WE ARE",
+          "title": "Who We Are",
           "text": "<p>Transformational Thinking Meets Transformational Doing.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2999,26 +3003,30 @@
           "innerText": "<a class=\"twitter-timeline\" href=\"https://twitter.com/anadata\" data-widget-id=\"670227744614187012\" data-screen-name=\"anadata\" data-theme=\"light\" width=\"420\" height=\"460\">Tweets by @anadata</a>"
         },
         {
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-0",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1p",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "overlayColor": "#222"
           },
-          "text": "FOLLOW US!"
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/AnaDataDesk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ClearAnalytics\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/ana-data-consulting\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -3224,9 +3232,10 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Create",
@@ -3235,13 +3244,15 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "edit",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
               "color": "black",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title2": "Learn",
@@ -3255,9 +3266,10 @@
               "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title3": "Play",
