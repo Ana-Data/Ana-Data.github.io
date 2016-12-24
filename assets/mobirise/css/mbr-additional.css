@@ -752,6 +752,31 @@ h6,
 #msg-box3-1e p {
   color: #000;
 }
+#header3-1s .mbr-section-title,
+#header3-1s .mbr-section-subtitle {
+  text-align: center;
+}
+#extFeatures12-1r .card-number {
+  color: #c0a375;
+}
+#extFeatures12-1r .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-1r .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-1r H4 {
+  text-align: center;
+}
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
+}
 
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -827,6 +852,15 @@ h6,
 #social-buttons2-c .mbr-section-title,
 #social-buttons2-c .btn-social {
   color: #232323;
+}
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
 }
 
 #menu-0 .hide-buttons .nav-btn {
@@ -905,6 +939,15 @@ h6,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
 }
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
+}
 
 #msg-box3-18 .mbr-section-title,
 #msg-box3-18 p {
@@ -977,6 +1020,15 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #000000;
+}
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
 }
 
 #msg-box3-1l .mbr-section-title,
@@ -1125,6 +1177,15 @@ h6,
 #extFeatures5-0 .wraper {
   border-color: #e6e6e6 !important;
 }
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
+}
 
 #msg-box3-1m .mbr-section-title,
 #msg-box3-1m p {
@@ -1240,6 +1301,15 @@ h6,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
 }
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
+}
 
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -1353,6 +1423,15 @@ h6,
 #social-buttons2-1p .btn-social {
   color: #232323;
 }
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
+}
 
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
@@ -1463,4 +1542,13 @@ h6,
 }
 #extFeatures10-14 P {
   text-align: left;
+}
+#contacts1-1q P {
+  color: #000000;
+}
+#contacts1-1q STRONG {
+  color: #000000;
+}
+#contacts1-1q SPAN {
+  color: #000000;
 }
