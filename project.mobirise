@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.10.2",
     "name": "My Site",
@@ -567,7 +567,7 @@
               "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-36.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -637,7 +637,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET FREE TRIAL</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -866,7 +866,7 @@
               "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-99.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1255,7 +1255,7 @@
               "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-48.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1540,7 +1540,7 @@
               "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-52.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2403,7 +2403,7 @@
               "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-26.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3636,7 +3636,7 @@
               "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-22.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
