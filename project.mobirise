@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "career.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.10.2",
     "name": "My Site",
@@ -157,7 +157,7 @@
           "_name": "extHeader11",
           "_styles": {
             "SPAN": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             "P": {
               "color": "#28324e"
@@ -170,8 +170,8 @@
             "animText3": "CHANGE",
             "typeSpeed": 60,
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader11_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1419675871098-db2745078906-2000x1498-23.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -179,7 +179,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/ewWEz8o95LU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
@@ -227,7 +227,7 @@
           },
           "title": "YOUR ADVANCED ANALYTICS PARTNER",
           "text": "Leverage Ana-Data CLEAR platform to discover insights and generate reports.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.clearanalyticsbi.com/free-trial/\" data-toolbar=\"-mbrBtnMove\">&nbsp;DOWNLOAD NOW</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.clearanalyticsbi.com/free-trial/\" data-toolbar=\"-mbrBtnMove\">&nbsp;DISCOVER NOW</a> "
         },
         {
           "_inherit": "msg-box8",
@@ -261,7 +261,7 @@
             "showButton": true
           },
           "title": "PROVIDING THE EXPERTISE",
-          "text": "Find the right people at the right time wit h Ana-Data.",
+          "text": "Find the right people at the right time with Ana-Data.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -281,7 +281,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "<span style=\"font-weight: normal;\">STORIES OF TRANSFORMATION</span>",
+          "title": "STORIES OF TRANSFORMATION",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -435,10 +435,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -470,8 +472,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
@@ -635,7 +637,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET FREE TRIAL</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">OPEN POSITIONS</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -732,10 +734,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -767,8 +771,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
@@ -961,10 +965,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -996,8 +1002,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
@@ -1367,10 +1373,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -1402,8 +1410,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
@@ -2228,10 +2236,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -2263,8 +2273,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
@@ -2782,10 +2792,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -2817,8 +2829,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
@@ -3201,7 +3213,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanjeev2-1400x923-61.jpg",
+              "src": "@PROJECT_PATH@/assets/images/marc7-1400x957-64.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3255,7 +3267,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-0885-1400x937-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dipak4-1400x957-12.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3493,10 +3505,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -3528,8 +3542,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
@@ -4205,10 +4219,12 @@
               "color": "#000000"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-1q",
@@ -4240,8 +4256,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
-          "text2": "<strong>Industries<br></strong><br>FInancial Services<br>Insurance<br>Healthcare",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
