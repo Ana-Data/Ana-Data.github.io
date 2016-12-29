@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "career.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.10.2",
     "name": "My Site",
@@ -160,7 +160,7 @@
               "color": "#efefef"
             },
             "P": {
-              "color": "#28324e"
+              "color": "#ffffff"
             }
           },
           "_anchor": "extHeader11-19",
@@ -637,7 +637,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">OPEN POSITIONS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET FREE TRIAL</a>"
           },
           "title": "DROP A LINE",
           "media1": {
