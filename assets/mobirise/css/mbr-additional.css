@@ -752,22 +752,6 @@ h6,
 #msg-box3-1e p {
   color: #000;
 }
-#header3-1s .mbr-section-title,
-#header3-1s .mbr-section-subtitle {
-  text-align: center;
-}
-#extFeatures12-1r .card-number {
-  color: #c0a375;
-}
-#extFeatures12-1r .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-1r .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-1r H4 {
-  text-align: center;
-}
 #contacts1-1q P {
   color: #000000;
 }
@@ -1565,6 +1549,90 @@ h6,
   font-size: 18px;
 }
 #contacts1-1q SPAN {
+  color: #000000;
+  font-size: 18px;
+}
+
+#msg-box3-1w .mbr-section-title,
+#msg-box3-1w p {
+  color: #000;
+}
+#menu-1t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1t .navbar-caption {
+  color: #ffffff;
+}
+#menu-1t .navbar-toggler {
+  color: #000000;
+}
+#menu-1t .link,
+#menu-1t .dropdown-item {
+  color: #000000;
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu-1t .link {
+  font-size: 0.8rem;
+}
+#menu-1t .dropdown-item,
+#menu-1t .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1t .link:hover,
+#menu-1t .dropdown-item:hover,
+#menu-1t .link:focus,
+#menu-1t .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-1t .link[aria-expanded="true"],
+#menu-1t .dropdown-menu {
+  background: #a8a8a8;
+}
+#menu-1t .nav-dropdown-sm .link:focus,
+#menu-1t .nav-dropdown-sm .link:hover,
+#menu-1t .nav-dropdown-sm .dropdown-item:focus,
+#menu-1t .nav-dropdown-sm .dropdown-item:hover {
+  background: #b9b9b9!important;
+}
+#menu-1t .navbar,
+#menu-1t .nav-dropdown-sm,
+#menu-1t .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1t .nav-dropdown-sm .dropdown-menu {
+  background: #c1c1c1;
+}
+#menu-1t .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-1t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1t .bg-color.transparent.opened .link:hover,
+#menu-1t .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-1t .link[aria-expanded="true"],
+#menu-1t .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-1t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1t .close-icon::before,
+#menu-1t .close-icon::after {
+  background-color: #000000;
+}
+#contacts1-1v P {
+  color: #000000;
+}
+#contacts1-1v STRONG {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1v SPAN {
   color: #000000;
   font-size: 18px;
 }
