@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "products.html",
+    "currentPage": "about.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -3069,7 +3069,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-0885-1400x937-24.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ravi-picture-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
