@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "products.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
-    "versionPublish": "3.12.1",
-    "name": "My Site",
+    "versionPublish": "3.10.2",
+    "name": "Canadian-site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,14 +19,20 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "scrollAnimation": "true",
     "uniqCompNum": 75,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/pawan/Desktop/anadata.github.ca"
   },
   "pages": {
     "index.html": {
@@ -133,7 +139,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -160,34 +166,35 @@
           "_name": "extHeader11",
           "_styles": {
             "SPAN": {
-              "color": "#efefef"
+              "color": "#ffffff",
+              "font-size": "60px"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#28324e"
             }
           },
           "_anchor": "extHeader11-19",
           "_params": {
             "animText1": "BUSINESS TRANSFORMATION",
             "animText2": "INNOVATION",
-            "animText3": "CHANGE",
+            "animText3": "BIG DATA ANALYTICS",
             "typeSpeed": 60,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1419675871098-db2745078906-2000x1498-23.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483706571191-85c0c76b1947-2000x1333-14.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/ewWEz8o95LU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/xxatuNfNdAE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": true
           },
@@ -420,7 +427,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -468,8 +475,8 @@
             "overlayColor": "#000",
             "inverse": true,
             "googleMap": {
-              "address": "30 Montgomery St, Jersey City, NJ",
-              "placeId": "ChIJBXBaSKlQwokRHKntlKwhqLo",
+              "address": "161 Bay st. Suite # 2697",
+              "placeId": "Ei0xNjEgQmF5IFN0ICMyNjk3LCBUb3JvbnRvLCBPTiBNNUogMlMxLCBDYW5hZGE",
               "state": "ok",
               "stateDetails": ""
             },
@@ -479,7 +486,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET FREE TRIAL</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -719,7 +726,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -901,10 +908,10 @@
             "paddingBottom": 1,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/mfa-172x86.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/deutsche-600x250-80.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -917,7 +924,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ship-400x88.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/bmo-1056x269-31.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -953,7 +960,7 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/bankofamerica-logo.gif",
@@ -969,7 +976,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/citi-logo-448x112-50.png",
+                    "src": "@PROJECT_PATH@/assets/images/scotia-wide-1280x231-60.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -995,32 +1002,6 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/lbbw-large-466x108.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmo-1056x269-31.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
                     "src": "@PROJECT_PATH@/assets/images/jpmorgan-logo-762x203-20.jpg",
                     "link": "",
                     "active": true,
@@ -1034,7 +1015,33 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bayern-sm-484x104.png",
+                    "src": "@PROJECT_PATH@/assets/images/cpp-640x159-4.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/td-small-350x150-49.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/morgan-stanley-450x112-82.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1160,7 +1167,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1178,84 +1185,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Ana-Data Consulting. All rights reserved."
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_name": "extTestimonials2",
-          "_params": {
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "slides": [
-              {
-                "active": true,
-                "text": "<p>“Right off the bat, it was very easy to use. We were using some other tools, and it took weeks or months. With Clear Analytics, we were able to do it in a quarter of the time. The senior-level executives were astounded. ”</p>",
-                "media": {
-                  "image": {
-                    "src": "/addons/mobirise3-blocks/components/_images/face1.jpg",
-                    "class": "img-circle",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "Product Manager",
-                "authorBio": "Bank of America"
-              },
-              {
-                "active": false,
-                "text": "<p>“One of our senior executive members asked for a very complex analysis. We wouldn't have even been able to answer the question before. It took us an hour to put together the analysis and send it back. We are now able to answer business questions in minutes versus days..”</p>",
-                "media": {
-                  "image": {
-                    "src": "/addons/mobirise3-blocks/components/_images/face2.jpg",
-                    "class": "img-circle",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "Technical Manager",
-                "authorBio": "AIG"
-              },
-              {
-                "active": false,
-                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-                "media": {
-                  "image": {
-                    "src": "/addons/mobirise3-blocks/components/_images/face3.jpg",
-                    "class": "img-circle",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "Suffian A.",
-                "authorBio": "UBS"
-              }
-            ],
-            "showImages": false,
-            "showName": true,
-            "showBio": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showBullets": true
-          },
-          "_anchor": "extTestimonials2-0",
-          "title": "WHAT OUR FANTASTIC CLIENTS SAY",
-          "subtitle": "Customers Satisfaction is priceless."
         },
         {
           "_tags": [
@@ -1445,7 +1374,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2308,7 +2237,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2393,8 +2322,8 @@
           "title": "Products",
           "subtitle": "Products based on our CLEAR Platform",
           "feature_title1": "<p><a href=\"products.html#header3-1g\" class=\"text-black\">Clear Query</a></p>",
-          "feature_subtitle1": "Reporting Made Easy",
-          "feature_text1": "Clear Query is a reporting application that helps users to create and design adhoc and standard reports.",
+          "feature_subtitle1": "Creative and intelligent solutions",
+          "feature_text1": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2406,9 +2335,9 @@
               "color": "@primaryColor"
             }
           },
-          "feature_title2": "<p><a href=\"products.html#header3-3\" class=\"text-black\">Clear&nbsp;</a>Data Loader</p>",
-          "feature_subtitle2": "Vendor Feed Framework&nbsp;",
-          "feature_text2": "Provides a generic framework that allows users to connect to FTP sites, download and load them to production databases.",
+          "feature_title2": "<p><a href=\"products.html#header3-3\" class=\"text-black\">Clear Reconciliation</a></p>",
+          "feature_subtitle2": "Reconcile &nbsp;your billing&nbsp;",
+          "feature_text2": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2444,7 +2373,7 @@
           },
           "feature_title4": "<p><a href=\"products.html#header3-2\" class=\"text-black\">Clear Entry</a><a href=\"products.html#header3-2\" class=\"text-black\"></a></p>",
           "feature_subtitle4": "Helps you capture data accurately.",
-          "feature_text4": "Clear Entry is a workflow aware data entry platform capable of managing the accurate entry of thousands of data attributes. ",
+          "feature_text4": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2457,8 +2386,8 @@
             }
           },
           "feature_title5": "<p><a href=\"products.html#header3-3\" class=\"text-black\">Clear Price Master</a></p>",
-          "feature_subtitle5": "Centralized Pricing System",
-          "feature_text5": "Provides a centralized pricing system for the front and back office with full audit trail, pricing policy enforcement"
+          "feature_subtitle5": "Don't borrow what you don't need",
+          "feature_text5": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry"
         },
         {
           "_styles": {
@@ -2602,7 +2531,7 @@
             "overlayColor": "#151515",
             "showTitles": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1i\" aria-expanded=\"true\">Benefits to Your Business</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1i\" aria-expanded=\"false\">Benefits to Your IT Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1i\" aria-expanded=\"false\">Clear Entry in Action</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1i\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1i\" aria-expanded=\"false\">Benefits to Your Business</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1i\" aria-expanded=\"false\">Benefits to Your IT Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1i\" aria-expanded=\"true\">Clear Entry in Action</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1i\">Beautiful</a></li>",
           "title1": "Fast Data Entry | Precision Data Input | Empower Collaboration",
           "text1": "Clear Entry ensures that data is captured correctly and comprehensively the first time through unique features that reduce the risk of entering incorrect data and dynamically validating as you go. Clear Entry forms change dynamically based on prior values to ensure only the required fields are filled out and only the appropriate values are available to select in list boxes.<br><br>By capturing clean, comprehensive data, you’re now able to perform exhaustive analysis previously not though possible. Badly inputted data cripples the effectiveness of the reporting and analysis, rendering the results untrustworthy. Clear Entry ensures high quality input meaning high quality and actionable output. You are able to provide a numeric range and specify an increment to high precision points for ensuring you capture critical numbers correctly.<br><br>Capturing data together from multiple departments has never been easier. Clear Entry governs who gets to fill out which fields - defined by individual or role, ensuring the data is captured from the right people, with full traceability of the capture process along the way.<br>",
           "title2": "Accurate Data | No Attachment Overload | Audit &amp; Security",
@@ -2631,31 +2560,17 @@
             "showMeta": true
           },
           "title": "CLEAR PRICE MASTER",
-          "meta": "Centralized Pricing System for front and back office with &nbsp;state of the art functionalities."
+          "meta": "Get the price right."
         },
         {
           "_name": "content1",
           "_anchor": "content1-3",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingBottom": "6",
             "bgColor": "#fff"
           },
-          "text": "<p>Clear Price Master is a system developed on CLEAR platform to automate the daily valuatoin of securities of interest. It provides a centralized pricing system for the front nad back office with a full audit trail, pricing policy enforcement historical reporting functionality. It provides following key capabilities: Allows personneld to focus on checking exceptions rather than finding them in the raw data, rules to analyze price variances, price exceptions and determining preferred, easy to use Review, Override and Update User Interface, Automatic application of Company's Pricing Policy, Streamlines the pricing workflow with consolidated, automated vendor pricing allowing for an increased focus on price quality.</p><p><br></p><p>Pricing Vendors supported are IDC, Bloomberg, Markit, LPC and other broker prices through manual upload. Some of the standard reports supported are Price Variance, Missing Prices, Stale Prices, Zero Prices.</p><p><br></p><p><b>Here are some of the benefits of Clear Price Master:</b></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-21",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>1.</b> Reduces manual process drastically</p><p><b><br></b></p><p><b>3</b>. Cross vendor comparison</p><p><br></p><p><b>5.</b> Ease of integration within existing business processes</p>",
-          "text2": "<p><b>2</b>. Enforces company wide pricing policies</p><p><br></p><p><b>4.</b> Pricing based on rules hierarchy</p><p><br></p><p><b>6.</b> Rich interface for viewing and manipulation data</p>"
+          "text": "<p>Clear Price Master is a system developed on CLEAR platform to automate the daily valuatoin of securities of interest. It provides a centralized pricing system for the front nad back office with a full audit trail, pricing policy enforcement historical reporting functionality. It provides following key capabilities: Allows personneld to focus on checking exceptions rather than finding them in the raw data, rules to analyze price variances, price exceptions and determining preferred, easy to use Review, Override and Update User Interface, Automatic application of Company's Pricing Policy, Streamlines the pricing workflow with consolidated, automated vendor pricing allowing for an increased focus on price quality.</p>"
         },
         {
           "_styles": {
@@ -2674,8 +2589,8 @@
             "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "CLEAR DATA LOADER",
-          "meta": "General framework that allows to load downloaded and FTP files into production databases."
+          "title": "CLEAR RECONCILATION",
+          "meta": "Reconcile all the business at the end of the day."
         },
         {
           "_tags": [
@@ -2688,75 +2603,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Data Loader - Venfor Feed Framework is a generic framework that allows users to connect to FTP sites, download files and load them to production databases. The whole process of acquiring and loading vendor data is metadata/configuration driven and does not require any additional development work. Standard notification is sent to users in case of success of failure. Some of the key features of vendor feed framework are -</p><p><br></p>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extAccordion3",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "extAccordion3-22",
-          "_params": {
-            "collapseAll": false,
-            "tabs": "6",
-            "imageSize": "53",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dataloader-1400x549.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Accordion FAQ",
-          "title1": "",
-          "text1": "",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseTwoextAccordion3-22\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"><b>General process to read standard files and load to staging tables</b></a>",
-          "text2": "",
-          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseThreeextAccordion3-22\" aria-expanded=\"false\" aria-controls=\"collapseThree\"><b>Support different file formats</b></a>",
-          "text3": "<p>ASCII/Text</p><p>Excel<br>RDBMS<br>XML/Others</p>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseFourextAccordion3-22\" aria-expanded=\"false\" aria-controls=\"collapseFour\"><b>File Location</b></a>",
-          "text4": "<p>FTP Site<br>Network drive</p><p>. </p>",
-          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseFiveextAccordion3-22\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><b>File Validations and Data Enhancements</b></a>",
-          "text5": "<p>The Dataloader can perform automatic file validations against the gold standar file.</p>",
-          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseSixextAccordion3-22\" aria-expanded=\"true\" aria-controls=\"collapseSix\"><b>Dashboard to monitor daily data feeds.</b></a>",
-          "text6": "<p>Display summary data for each feed, total records received, total records process, total errors, duration for each feed, set exception threshold, etc..</p>"
+          "text": "<p>A flexible financial reconcilation tool that allows the data to be reconciled with ease. The results are dispalyed with various types of breaks, columns, source and target.</p>"
         },
         {
           "_tags": [
@@ -2911,7 +2758,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -3623,7 +3470,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -3679,7 +3526,7 @@
           },
           "title": "We're looking for talented engineers !!",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.dice.com/company/10120081\" data-toolbar=\"-mbrBtnMove\">OPEN POSITIONS</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://www.workopolis.com/jobsearch/find-jobs?lg=EN&amp;ak=ANA-DATA%20CONSULTING%20INC\" data-toolbar=\"-mbrBtnMove\">OPEN POSITIONS</a>"
         },
         {
           "_styles": {
@@ -3847,7 +3694,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>No revolutionary technologies springs from individuals. It takes an entire team united behind something big. Together, we work hard, we laugh a lot, we brainstorm nonstop, we use hundreds of Post-Its a week, and we give the best high-fives in town.</p>"
+          "text": "<p>No revolutionary technologies springs from individuals. It takes an entire team united behind something big. Together, we work hard, we laugh a lot, we brainstorm nonstop, we use hundreds of Post-Its a week, and we give the best high-fives in town. Here are some of the benefits at Ana-Data.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -3959,8 +3806,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be a Host</b></p><p><br></p><p>Collaborative. Anticipates the needs of others. Prepared. Authentic. Listens. Advocates and eliminates interference for others. Considers the whole person. Humble.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every Frame Matters</b></p><p><br></p><p>Thinks holistically. Rigorous about quality. Appreciates the details and prioritizes the right ones.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Simplify</b></p><p><br></p><p>Prioritizes. Distills a problem to its essence. Makes and communicates clear decisions.</p>",
-          "text2": "<b>Champion the Mission</b><div><br></div><div>Passionate. Committed. Optimistic. Puts the Airbnb community first. Takes ownership and delivers results. Perpetuates belonging.</div><div><br></div><div><br></div><div><br></div><div><b>Be a \"Cereal\" Entrepreneur</b></div><div><br></div><div>Creative. Embraces constraints. Solution-oriented. Tenacious.</div><div><br></div><div><br></div><div><br></div><div><b>Embrace the Adventure</b></div><div><br></div><div>Flexible. Risk tolerant. Always learning. Curious. Open-minded. Brings joy to their work.</div>"
+          "text1": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Compensation</b></p><p><br></p><p>Competitive programs that rewards individual performance and their contribution to business objectives.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Professional Development</b></p><p><br></p><p>A wide range of on the job development and training programs to help associates reach their full potential.</p><p><br></p><p><br></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Paid Time Off</b></p><p>Paid time off and sick leaes to relax and refresh yourself.</p>",
+          "text2": "<b>Benefits</b><br><div><br></div><div>Flexible comprehenseive healthcare packages that let associates select coverage that meets their individual and family needs.</div><div><br></div><div><br></div><div><b>Friendly Workplace Environment</b></div><div>We celebrate our cultural diversity and champion leadership, high standards, communication and teamwork.&nbsp;</div><div><br></div><div><br></div><div><br></div><div><b>Visa Sponsorship</b></div><div>Visa sponsorship is available to all the talented employees.</div>"
         },
         {
           "_styles": {
@@ -4439,7 +4286,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@adcc\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
