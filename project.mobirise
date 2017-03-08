@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Big-Data-Services.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -1189,7 +1189,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -5352,7 +5352,7 @@
             "showCaption": true
           },
           "title": "<span style=\"font-weight: normal;\">Implementation</span>",
-          "caption": "<p>Deliver effective, highly scalable, high performance Big Data analytics applications. Reduce your risk, implementation time and cost.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>Our team of experts partner with you to design proof-of-concept prototypes utilizing Big Data technologies. On successful validation of the prototype, we help you to scale and deploy your Big Data solution to a production-grade implementation. Impetus also provides cost-effective maintenance, support, and optimization of your Big Data solutions.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>To understand how we can help you deploy and maintain Big Data solutions, <a href=\"contact.html\" class=\"text-info\">contact us.</a></span></p>"
+          "caption": "<p>Deliver effective, highly scalable, high performance Big Data analytics applications. Reduce your risk, implementation time and cost.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>Our team of experts partner with you to design proof-of-concept prototypes utilizing Big Data technologies. On successful validation of the prototype, we help you to scale and deploy your Big Data solution to a production-grade implementation. Ana-Data also provides cost-effective maintenance, support, and optimization of your Big Data solutions.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>To understand how we can help you deploy and maintain Big Data solutions, <a href=\"contact.html\" class=\"text-info\">contact us.</a></span></p>"
         },
         {
           "_styles": {
