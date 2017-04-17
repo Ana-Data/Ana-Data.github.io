@@ -26,10 +26,7 @@
     "scrollAnimation": "true",
     "uniqCompNum": 104,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -750,7 +747,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Clear Analytics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>",
-          "text": "Clear Analytics brings you Self-service Business Intelligence at its best. Our solution will make any Excel user a power analyst - no manual needed! Amplify the analysis tool you already know. Clear Analytics brings to you a suite of products that helps enterprise to make their risk and compliance process a breeze.<br><br>For a demo, please reach out to us.",
+          "text": "Clear Analytics brings you Self-service Business Intelligence at its best. Our solution will make any Excel user a power analyst - no manual needed! Amplify the analysis tool you already know. Clear Analytics brings to you a suite of products that helps enterprise to make their risk and complicance process a breeze.<br><br>For a demo, please reach out to us.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;LEARN MORE</a> "
         },
         {
@@ -1013,7 +1010,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/anadata-logo-header-128x17.png",
+              "src": "@PROJECT_PATH@/assets/images/anadata-logo-128x141-89.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1027,9 +1024,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -1192,7 +1189,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -1207,7 +1204,7 @@
           },
           "title1": "&nbsp;We would love to hear from you or visit us at our offices.",
           "subTitle1": "",
-          "text1": "Phone: +1 &nbsp;(201)-324-3910&nbsp;<br> Email: <a href=\"mailto:sales@ana-data.com\">sales@ana-data.com</a>",
+          "text1": "Phone: +1 &nbsp;(201)-324-3910&nbsp;<br> Email: sales@ana-data.com",
           "form": {
             "action": "pawandeep.me@gmail.com",
             "alerts": {
@@ -1236,7 +1233,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>"
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
         },
         {
           "_tags": [
@@ -1326,9 +1323,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -1557,9 +1554,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -2017,9 +2014,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -2290,7 +2287,7 @@
               "color": "#c0a375"
             }
           },
-          "feature_title4": "<p><a href=\"services.html#header3-0\" class=\"text-black\">Big Data Analytics</a></p>",
+          "feature_title4": "<p><a href=\"services.html#header3-1\" class=\"text-black\">Big Data Analytics</a></p>",
           "feature_subtitle4": "We love big data",
           "feature_text4": "Big data is becoming a must have source of competitive advantage for businesses. Let us help you define and deliver your big data strategy.",
           "media5": {
@@ -2303,7 +2300,7 @@
               "family": "et-line"
             }
           },
-          "feature_title5": "<p><a href=\"services.html#extFeatures4-2\" class=\"text-black\">Middle and Back Office</a></p>",
+          "feature_title5": "<p><a href=\"services.html#extFeatures5-0\" class=\"text-black\">Middle and Back Office</a></p>",
           "feature_subtitle5": "End to end operatoins.",
           "feature_text5": "With almost two decades of financial domain experience, Ana-Data has delivered numerous customized solutions to our clients to ensure excellence in operations."
         },
@@ -2577,7 +2574,7 @@
           "title1": "Let Your Data Work For You",
           "text1": "Whether data is local, in the cloud or both, you are quickly inundated with massive amounts of information. Social media, intranet collaboration systems and other data sources pose big challenges. But the volume, velocity, variety and complexity of Big data can also be a huge corporate asset that you must exploit in order to thrive.<br><br>Don't get buried. We have the experience, skills and tools you require to turn your business problems into business insights.<br>",
           "title2": "Big Data Strategic Overview",
-          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems.</p><p><b>Life Sciences:</b><span style=\"font-size: 1rem; line-height: 1.5;\"> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing and real world evidence, translational sciences and imaging., &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br></p><p><b>Media and Entertainment:</b> Discover churn patterns, digital asset management (DAM).<br><b><br>Big Data Industry Solutions:&nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br></span><span style=\"font-size: 1rem; line-height: 1.5;\"><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.</span></p><br><p><br></p><br><p><b><br></b></p><p><b><br></b><br></p>",
+          "text2": "<p>Central to Ana-data's strategy around discovering and driving business value in big data is our innovative suite of solutions. Each leverages big data technologies to deliver enhanced insight and analytics to various industries.<br><br><b>Some use cases of big data across industry sectors:<br></b><br><b>Financial and Insurance Services</b>: Early-warning fraud detection systems, identity threat management</p><p><b>Life Sciences:</b><span style=\"font-size: 1rem; line-height: 1.5;\"> Physician interaction optimization, proactive manufacturing surveillance, next-generation genetic sequencing and real world evidence, translational sciences and imaging., &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><b>Healthcare</b>: Cross-channel analytics, campaign optimization and fraud detection<br></p><p><b>Media and Entertainment:</b> Discover churn patterns, digital asset management (DAM).<br><b><br>Big Data Industry Solutions:&nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">Ana-Data's &nbsp;focus on innovation and business processes is underscored by a host of industry solutions developed by our domain experts. Our integrated social media analytics solutoins empowers businesses to meet their social media needs and provides real-time insight into social media effectiveness.<br></span><span style=\"font-size: 1rem; line-height: 1.5;\"><br>Our framework for Longitudinal Analysis, cross-references data variables over periods of time. It helps you unearth meaningful patterns from chaos, analyzing customer spending behavior, for example. It also identifies customer segment responsiveness to particular campaigns.</span></p><br><p><br></p><br><p><b><br></b></p><p><b><br></b><br></p>",
           "title3": "Big Data Services",
           "text3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Our Enterprise Information Management practice has built a robust set of big data service offerings to cater to customer needs.</span><br><br><b>Big data strategy and roadmap definition<br>Technology evaluation and piloting<br>Data visualization and analytics<br>Idea to implementation<br>Big data lab on demand<br>Solution accelerators</b><br>",
           "title4": "Tab heading 4",
@@ -2798,7 +2795,7 @@
           },
           "title2": "Pricing Exception",
           "subtitle2": "Get your price right",
-          "caption2": "We help solutions to handle pricing exceptiongs and reporting for trade approvals, OTC settlements among others.",
+          "caption2": "We help solutions with to handle pricing exceptiongs and reporting for trade approvals, OTC settlements among others.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2880,9 +2877,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -3119,7 +3116,7 @@
               "color": "@primaryColor"
             }
           },
-          "feature_title2": "<p><a href=\"products.html#header3-3\" class=\"text-black\">Clear Data Loader</a></p>",
+          "feature_title2": "<p><a href=\"products.html#header3-3\" class=\"text-black\">Clear&nbsp;</a>Data Loader</p>",
           "feature_subtitle2": "Vendor Feed Framework&nbsp;",
           "feature_text2": "Provides a generic framework that allows users to connect to FTP sites, download and load them to production databases.",
           "media2": {
@@ -3315,13 +3312,13 @@
             "overlayColor": "#151515",
             "showTitles": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1i\" aria-expanded=\"false\">Benefits to Your Business</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1i\" aria-expanded=\"false\">Benefits to Your IT Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1i\" aria-expanded=\"true\">Clear Entry in Action</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1i\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1i\" aria-expanded=\"true\">Benefits to Your Business</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1i\" aria-expanded=\"false\">Benefits to Your IT Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1i\" aria-expanded=\"false\">Clear Entry in Action</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1i\">Beautiful</a></li>",
           "title1": "Fast Data Entry | Precision Data Input | Empower Collaboration",
           "text1": "Clear Entry ensures that data is captured correctly and comprehensively the first time through unique features that reduce the risk of entering incorrect data and dynamically validating as you go. Clear Entry forms change dynamically based on prior values to ensure only the required fields are filled out and only the appropriate values are available to select in list boxes.<br><br>By capturing clean, comprehensive data, you’re now able to perform exhaustive analysis previously not though possible. Badly inputted data cripples the effectiveness of the reporting and analysis, rendering the results untrustworthy. Clear Entry ensures high quality input meaning high quality and actionable output. You are able to provide a numeric range and specify an increment to high precision points for ensuring you capture critical numbers correctly.<br><br>Capturing data together from multiple departments has never been easier. Clear Entry governs who gets to fill out which fields - defined by individual or role, ensuring the data is captured from the right people, with full traceability of the capture process along the way.<br>",
           "title2": "Accurate Data | No Attachment Overload | Audit &amp; Security",
           "text2": "Clear Entry means that the data flowing into your databases is clean, accurate, comprehensive and at the highest level of integrity. You can also update the entry fields when capture requirements evolve by simple configuration changes. The role-based workflow feature ensures only the right people enter the right information into your infrastructure.<br><br>Most businesses rely heavily on email to gather data from various teams, resulting in countless emailed attachments. Clear Entry helps reduce email overload by enabling the business to have better control over sensitive information being captured and distributed.<br><br>By providing role-based access, you can be confident in the knowledge that only those authorized can fill in a given field. Based on user roles, a field can be dynamically set to read-only, mandatory, optional, or hidden. Clear Entry captures the full entry process from the beginning to end.<br>",
           "title3": "Pipeline Management | Security Masters | Ticket Entry",
-          "text3": "Managing the process of handling investor transactions goes through many different levels of client relations, accounting personnel, and management. Clear Entry ensures the appropriate information is gathered, from an initial phone call through to acknowledging that cash has been deposited into the right fund. Clear Entry enables the firm to massively increase the number of simultaneous transactions without the need to increase headcount, all while improving customer service and turnaround times.<br><br>Capturing hundreds of complex elements from independent groups is no easy task. Clear Entry has successfully been deployed in some of the largest financial institutions to ensure that the right data elements are captured from the right groups. By allowing for custom rules, high precision numerical entries, and arrays of fields, Clear Entry provides a level of sophistication not seen in a general purpose data entry platform.<br><br>Clear Entry eliminates the need to re-enter the same information into multiple systems. Simply enter the information once and the data is transmitted to all other systems, reducing the risk of manual errors and increasing the accuracy of the data in your business. No more bad valuations as a result of incorrect data entry.<br>",
+          "text3": "Managing the process of handling investor transactions goes through many different levels of client relations, accounting personnel, and management. Clear Entry ensures the appropriate information is gathered, from an initial phone call through to acknowledging that cash has been deposited into the right fund. Clear Entry enables the firm to massively increase the number of simultaneous transactions without the need to increase headcount, all while improving customer service and turnaround times.<br><br>Capturing hundreds of complex elements from independent groups is no easy task. Clear Entry has successfully been deployed in some of the largest financial institutions to ensure that the right data elements are captured from the right groups. By allowing for custom rules, high precision numerical entries, and arrays of fields, Clear Entry provides a level of sophistication not seen in a general purpose data entry platform.<br><br>Clear Entry eliminates the need to re-enter the same information into multiple systems. Simply enter the information once and the data is transmitted to all other systems, reducing the risk of manual errors and increasing the accuracy of the data in your business. No more bad valuations as a result of not capturing correctly data the first time.<br>",
           "title4": "Tab heading 4",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title5": "Tab heading 5",
@@ -3354,7 +3351,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p>Clear Price Master is a system developed on CLEAR platform to automate the daily valuatoin of securities of interest. It provides a centralized pricing system for the front and back office with a full audit trail, pricing policy enforcement historical reporting functionality. It provides following key capabilities: Allows personnel to focus on checking exceptions rather than finding them in the raw data, rules to analyze price variances, price exceptions and determining preferred, easy to use Review, Override and Update User Interface, Automatic application of Company's Pricing Policy, Streamlines the pricing workflow with consolidated, automated vendor pricing allowing for an increased focus on price quality.</p><p><br></p><p>Pricing Vendors supported are IDC, Bloomberg, Markit, LPC and other broker prices through manual upload. Some of the standard reports supported are Price Variance, Missing Prices, Stale Prices, Zero Prices.</p><p><br></p><p><b>Here are some of the benefits of Clear Price Master:</b></p>"
+          "text": "<p>Clear Price Master is a system developed on CLEAR platform to automate the daily valuatoin of securities of interest. It provides a centralized pricing system for the front nad back office with a full audit trail, pricing policy enforcement historical reporting functionality. It provides following key capabilities: Allows personneld to focus on checking exceptions rather than finding them in the raw data, rules to analyze price variances, price exceptions and determining preferred, easy to use Review, Override and Update User Interface, Automatic application of Company's Pricing Policy, Streamlines the pricing workflow with consolidated, automated vendor pricing allowing for an increased focus on price quality.</p><p><br></p><p>Pricing Vendors supported are IDC, Bloomberg, Markit, LPC and other broker prices through manual upload. Some of the standard reports supported are Price Variance, Missing Prices, Stale Prices, Zero Prices.</p><p><br></p><p><b>Here are some of the benefits of Clear Price Master:</b></p>"
         },
         {
           "_tags": [
@@ -3401,7 +3398,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Data Loader - Venfor Feed Framework is a generic framework that allows users to connect to FTP sites, download files and load them to production databases. The whole process of acquiring and loading vendor data is metadata/configuration driven and does not require any additional development work. Standard notification is sent to users in case of success or failure. Some of the key features of vendor feed framework are -</p><p><br></p>"
+          "text": "<p>Data Loader - Venfor Feed Framework is a generic framework that allows users to connect to FTP sites, download files and load them to production databases. The whole process of acquiring and loading vendor data is metadata/configuration driven and does not require any additional development work. Standard notification is sent to users in case of success of failure. Some of the key features of vendor feed framework are -</p><p><br></p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -3518,9 +3515,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -4231,9 +4228,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -4945,9 +4942,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -5218,9 +5215,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -5250,23 +5247,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2m",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "4",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Big Data Analytics Services",
           "text": "<p>Modernize your tech stack.</p>",
@@ -5296,22 +5293,22 @@
           "_name": "content5",
           "_anchor": "content5-2q",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Consulting</span>",
           "caption": "<p>Advisory services based on proven, repeatable methodologies that provide unbiased vendor-neutral recommendations, architecture blueprints and implementation roadmaps.<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">We help you define a Big Data strategy and select appropriate technologies and vendors based on your requirements and budget. We also ensure it complements your existing data warehouse/ BI investments. Our consultants have a comprehensive view of the many options available and help you evaluate both commercial product vendors and Open Source options.</span></p><p>To understand how our advisory services can help you meet your Big Data goals, <a href=\"contact.html\" class=\"text-info\">contact us.</a></p>"
@@ -5337,22 +5334,22 @@
           "_name": "content5",
           "_anchor": "content5-2s",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Implementation</span>",
           "caption": "<p>Deliver effective, highly scalable, high performance Big Data analytics applications. Reduce your risk, implementation time and cost.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>Our team of experts partner with you to design proof-of-concept prototypes utilizing Big Data technologies. On successful validation of the prototype, we help you to scale and deploy your Big Data solution to a production-grade implementation. Ana-Data also provides cost-effective maintenance, support, and optimization of your Big Data solutions.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>To understand how we can help you deploy and maintain Big Data solutions, <a href=\"contact.html\" class=\"text-info\">contact us.</a></span></p>"
@@ -5378,22 +5375,22 @@
           "_name": "content5",
           "_anchor": "content5-2t",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Data Science</span>",
           "caption": "<p>Leverage experienced data scientists and methodologies to implement advanced models and algorithms that separate the signals from the noise, discover patterns in the data, and provide predictive insights. We are skilled in machine learning, natural language processing, enterprise search and advanced statistical and mathematical decision science. We are experienced in a broad range of industries such as banking and financial services, telecommunications, travel and entertainment, digital media, healthcare, manufacturing and others.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>To help you apply advanced decision science within your business, <a href=\"contact.html\" class=\"text-info\">contact us.</a></span></p>"
@@ -5421,22 +5418,22 @@
           "_name": "content5",
           "_anchor": "content5-2u",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Data Warehouse Modernization</span>",
           "caption": "<p>Current enterprise data warehouses are choking from the weight of new structured and unstructured data sources. In response to this, there are many new commercial and Open Source options. Our data warehouse modernization solutions help to extend and enhance your data warehouse infrastructure in a complementary way.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Enterprise Data Warehouse (EDW) is not dead; it’s evolving! It has come a long way in delivering value by predicting trends, minimizing churn, and identifying new business opportunities. However, in the era of big data, traditional EDW is failing to meet new business requirements, such as support for real-time and ad hoc customer analytics, new sources of data, and self-service capabilities<br><br>To know more about Data Warehouse Modernization, download the Forrester report ‘<a href=\"https://reprints.forrester.com/#/assets/2/134/'RES128005'/reports\" class=\"text-info\">The Next-Generation EDW Is The Big Data Warehouse</a>’.</span><br></p>"
@@ -5502,6 +5499,12 @@
           "_name": "menu",
           "_anchor": "menu-2j",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#c1c1c1",
             "fontSize": "0.8",
             "fontName": {
@@ -5510,13 +5513,7 @@
               "css": "'Noto Sans', sans-serif"
             },
             "fontColor": "#000000",
-            "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -5544,13 +5541,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Ana-Data Consulting. All rights reserved."
         },
@@ -5577,13 +5574,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#cccccc",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -5601,9 +5598,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     }
