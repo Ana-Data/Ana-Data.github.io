@@ -2048,3 +2048,93 @@ h6,
   color: #000000;
   font-size: 18px;
 }
+
+#msg-box3-36 .mbr-section-title,
+#msg-box3-36 p {
+  color: #000;
+}
+#msg-box3-36 .mbr-section-title SPAN {
+  font-size: 46px;
+}
+#content1-37 P {
+  text-align: left;
+}
+#menu-38 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-38 .navbar-caption {
+  color: #ffffff;
+}
+#menu-38 .navbar-toggler {
+  color: #000000;
+}
+#menu-38 .link,
+#menu-38 .dropdown-item {
+  color: #000000;
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu-38 .link {
+  font-size: 0.8rem;
+}
+#menu-38 .dropdown-item,
+#menu-38 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-38 .link:hover,
+#menu-38 .dropdown-item:hover,
+#menu-38 .link:focus,
+#menu-38 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-38 .link[aria-expanded="true"],
+#menu-38 .dropdown-menu {
+  background: #a8a8a8;
+}
+#menu-38 .nav-dropdown-sm .link:focus,
+#menu-38 .nav-dropdown-sm .link:hover,
+#menu-38 .nav-dropdown-sm .dropdown-item:focus,
+#menu-38 .nav-dropdown-sm .dropdown-item:hover {
+  background: #b9b9b9!important;
+}
+#menu-38 .navbar,
+#menu-38 .nav-dropdown-sm,
+#menu-38 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-38 .nav-dropdown-sm .dropdown-menu {
+  background: #c1c1c1;
+}
+#menu-38 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-38 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-38 .bg-color.transparent.opened .link:hover,
+#menu-38 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-38 .link[aria-expanded="true"],
+#menu-38 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-38.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-38 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-38 .close-icon::before,
+#menu-38 .close-icon::after {
+  background-color: #000000;
+}
+#contacts1-3a P {
+  color: #000000;
+}
+#contacts1-3a STRONG {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-3a SPAN {
+  color: #000000;
+  font-size: 18px;
+}
