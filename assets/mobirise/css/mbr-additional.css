@@ -423,9 +423,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 .extCountdown1 .number,
 .extCountdown2 .number {
   font-family: 'Montserrat', sans-serif;
@@ -1868,6 +1865,186 @@ h6,
   font-size: 18px;
 }
 #contacts1-2l SPAN {
+  color: #000000;
+  font-size: 18px;
+}
+
+#msg-box3-2z .mbr-section-title,
+#msg-box3-2z p {
+  color: #000;
+}
+#msg-box3-2z .mbr-section-title SPAN {
+  font-size: 46px;
+}
+#content1-30 P {
+  text-align: left;
+}
+#menu-2w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2w .navbar-caption {
+  color: #ffffff;
+}
+#menu-2w .navbar-toggler {
+  color: #000000;
+}
+#menu-2w .link,
+#menu-2w .dropdown-item {
+  color: #000000;
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu-2w .link {
+  font-size: 0.8rem;
+}
+#menu-2w .dropdown-item,
+#menu-2w .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-2w .link:hover,
+#menu-2w .dropdown-item:hover,
+#menu-2w .link:focus,
+#menu-2w .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-2w .link[aria-expanded="true"],
+#menu-2w .dropdown-menu {
+  background: #a8a8a8;
+}
+#menu-2w .nav-dropdown-sm .link:focus,
+#menu-2w .nav-dropdown-sm .link:hover,
+#menu-2w .nav-dropdown-sm .dropdown-item:focus,
+#menu-2w .nav-dropdown-sm .dropdown-item:hover {
+  background: #b9b9b9!important;
+}
+#menu-2w .navbar,
+#menu-2w .nav-dropdown-sm,
+#menu-2w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2w .nav-dropdown-sm .dropdown-menu {
+  background: #c1c1c1;
+}
+#menu-2w .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-2w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2w .bg-color.transparent.opened .link:hover,
+#menu-2w .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-2w .link[aria-expanded="true"],
+#menu-2w .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-2w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2w .close-icon::before,
+#menu-2w .close-icon::after {
+  background-color: #000000;
+}
+#contacts1-2y P {
+  color: #000000;
+}
+#contacts1-2y STRONG {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-2y SPAN {
+  color: #000000;
+  font-size: 18px;
+}
+
+#msg-box3-31 .mbr-section-title,
+#msg-box3-31 p {
+  color: #000;
+}
+#msg-box3-31 .mbr-section-title SPAN {
+  font-size: 46px;
+}
+#content1-32 P {
+  text-align: left;
+}
+#menu-33 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-33 .navbar-caption {
+  color: #ffffff;
+}
+#menu-33 .navbar-toggler {
+  color: #000000;
+}
+#menu-33 .link,
+#menu-33 .dropdown-item {
+  color: #000000;
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu-33 .link {
+  font-size: 0.8rem;
+}
+#menu-33 .dropdown-item,
+#menu-33 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-33 .link:hover,
+#menu-33 .dropdown-item:hover,
+#menu-33 .link:focus,
+#menu-33 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-33 .link[aria-expanded="true"],
+#menu-33 .dropdown-menu {
+  background: #a8a8a8;
+}
+#menu-33 .nav-dropdown-sm .link:focus,
+#menu-33 .nav-dropdown-sm .link:hover,
+#menu-33 .nav-dropdown-sm .dropdown-item:focus,
+#menu-33 .nav-dropdown-sm .dropdown-item:hover {
+  background: #b9b9b9!important;
+}
+#menu-33 .navbar,
+#menu-33 .nav-dropdown-sm,
+#menu-33 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-33 .nav-dropdown-sm .dropdown-menu {
+  background: #c1c1c1;
+}
+#menu-33 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-33 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-33 .bg-color.transparent.opened .link:hover,
+#menu-33 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-33 .link[aria-expanded="true"],
+#menu-33 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-33.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-33 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-33 .close-icon::before,
+#menu-33 .close-icon::after {
+  background-color: #000000;
+}
+#contacts1-35 P {
+  color: #000000;
+}
+#contacts1-35 STRONG {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-35 SPAN {
   color: #000000;
   font-size: 18px;
 }

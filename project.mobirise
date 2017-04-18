@@ -19,17 +19,14 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 104,
+    "uniqCompNum": 114,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -273,15 +270,15 @@
               "name": "phone",
               "family": "et-line",
               "active": true,
-              "link": "index.html#features4-26",
+              "link": "Hadoop_Data_Migration.html",
               "size": 0,
               "color": "black",
               "newWindow": false
             }
           },
-          "title1": "Customer and <br>Campaign Management",
+          "title1": "Hadoop Data Migration &amp; <br>Reporting Consolidation",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Increased revenue by $77M. Provided<br>a holistic view of the customer needs and feedback.",
+          "caption1": "Reduced IT costs my eliminating licescing fees&nbsp;<br>and creating a common reporting platform.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -307,15 +304,15 @@
               "name": "briefcase",
               "family": "et-line",
               "active": true,
-              "link": "index.html#features4-26",
+              "link": "Compliance.html",
               "size": 0,
               "color": "black",
               "newWindow": false
             }
           },
-          "title3": "Compliance &amp; Regulatory <br>Reporting",
+          "title3": "Automatic Reconciliation <br>System&nbsp;<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Improved Regulatory reporting cycle<br>using our CLEAR reporting platform..",
+          "caption3": "Reduced daily reconciliation effort by&nbsp;<br>over 50%.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -5588,6 +5585,462 @@
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/anadata-logo-128x141-89.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+        }
+      ]
+    },
+    "Compliance.html": {
+      "settings": {
+        "title": "Reconciliation System Automation",
+        "meta_descr": "Reconciliation System Automation"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2z",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Reconcilation System Automation</span>",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-30",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Overview:<br></b></p><p>After years of manual reconciliation the global&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">institutional fixed income investment management firm&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">was ready to move to an automated position and cash&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">reconciliation system between firms accounting and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">trading systems and between accounting system and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">custodians. Before the automated system was&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">implemented the firm manually used to download end of&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">day positions and cash from firms accounting system in a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">spreadsheet and then downloaded the same from trading&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">system and used to reconcile the data using scripts and</span></p><p>macros which was a spreadsheet based reconciliation. As&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">you can imagine it was time consuming and prone to&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">error.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Solution:</b></p><ul><li>Ana-Data was engaged to develop and implement the&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">company reconciliation system</span></li></ul><ul><li>Feed processing framework service collects,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">aggregates and normalizes the data across numerous</span></li></ul><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; internal and external data sources including&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">proprietary formats or SWIFT using in-house data&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">transformation rules</span></p><ul><li>Internally developed reconciliation engine that&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">compares data allowing user defined tolerances</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Internally developed workflow tool to prioritize&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">position breaks by portfolio, by portfolio security, by&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">security, by exception</span></li><li>Security identifier mapping allows user to map&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">internal security identifier to external securities if&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">they are similar securities</span></li><li>Resolve/Comments: Option to allow users to add&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">comments to recon breaks and tag them as&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">permanent exceptions if needed.</span></li><li>Daily first level and second level of sign off by&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">operation users</span></li><li>Daily recon results are preserved for compliance</li><li>All break history is preserved and persisted over time</li><li>Recon aging reports by breaks</li><li>Sign off reports by account and vendors</li></ul><p><br></p><p><b>Benefits:</b></p><ul><li>Automated recon system reduced the manual daily reconciliation effort by more than 50%</li><li>Staffs freed from reconciliation to concentrate on core competencies</li><li>Supports best practices by allowing routine and granular reconciliation of security position</li><li>Verifies integrity of portfolio and securities, comparing position, cash and transaction activities from custodians</li><li>Allows timely identification and resolution to exception and breaks</li><li>Reduce noise by tagging breaks as permanent breaks if they appear day over day</li><li>Allows users to tag breaks with comments either as a one time exception or add to list of standard comments</li></ul><p><br></p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a8a8a8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#b9b9b9!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c1c1c1"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2w",
+          "_params": {
+            "bgColor": "#c1c1c1",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-15.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\" target=\"_blank\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Ana-Data Consulting. All rights reserved."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts1-2y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anadata-logo-header-128x17.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
+        }
+      ]
+    },
+    "Hadoop_Data_Migration.html": {
+      "settings": {
+        "title": "Hadoop Data Migration",
+        "meta_descr": "Hadoop Data Migration and reporting consolidation."
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-31",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Hadoop Data Migration&nbsp;</span><br><span style=\"font-weight: normal;\">&amp; Reporting Consolidation</span>",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Overview:<br></b></p><p>Around 3 terabytes of data is getting added&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">every month and it has an upward trend. It was a challenge to manage the storage and processing to&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fulfill reporting needs.Earlier setup used Teradata as the database. Though Teradata per se can manage the ever-increasing data volume but in order to scale it up to a matching level of future data volume, the cost is highly&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">prohibitive combined with possible performance issues in massive data processing.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">As such, client opted to go for a cost effective system that can:</span><br></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Handle massive data and highly scalable with minimal cost </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Provide effective data processing engine that can withstand huge data load</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">In addition, it was imperative to re-engineer the existing data model so as to optimize the overall&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">processing steps for the reporting needs.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In order to circumvent the said bottlenecks, it was suggestive to replace Teradata with Hadoop that can&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">be leveraged around below aspects</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Build to hold massive data in a multi-node cluster environment</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Reduced cost. It can be set up on commodity hardware</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Distributed parallel processing using Hive and MapReduce</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Highly scalable and fault tolerant</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Along with this, it was also analyzed that introduction of a common reporting platform in terms of a new&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">data layer for multiple applications would help optimize the overall processing steps as well as storage&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">needs.</span></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Solution:</b><br>Ana-Data  was engaged all through the SDLC (requirements, design, develop, test, deploy and support) of&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">this system.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The key components are:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>1. Source Databases:</b>&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Contains transactional data that are distributed across multiple databases called Nodes&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">(Oracle databases)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>2. Stage Layer:&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">All the data in the Nodes are consolidated in the Stage Layer. No aggregation is done in this&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">layer.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>3. Hadoop Base Layer:</b>&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Data moved as-is from the Stage Layer to the Hadoop Base Layer using a customized&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">replication framework</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>4. Consolidated Layer:&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Newly introduced layer wherein aggregations are done and a common platform is built that&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">can serve as the source of cooked data for multiple applications for their reporting.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>5. Downstream Applications:</b>&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">These are the various applications that cater to reporting needs with respect to their</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">corresponding business functions. These applications pull data from the “Consolidated Layer”&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">and forward the same to report consumers in form of delimited files using extraction&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">framework. The report consumers, in turn may use their own front-end tool for rendering their&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">reports as per their required format.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><br></p><p><b>Benefits:</b></p><p>The key business benefits can be summarized as -&nbsp;</p><p><br></p><p><b>Reduced IT costs</b></p><p>Hadoop being an open source system, there is no license cost.  As it can be set up mostly by using&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">commodity hardware, the initial investment as well as cost involved in scaling up the system to handle&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">future high volume of data is cost effective.</span></p><p><br></p><p><b>Highly Scalable and Fault Tolerant</b></p><p>The system is built to handle massive data and scalable and fault tolerant aspects are inherent. It is set&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">up in a clustered framework and new nodes can be added cluster to handle the ever growing volume of&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Data.</span></p><p><br></p><p><b>Common Reporting Platform</b></p><p>The newly introduced data layer named “Consolidated” provides a common platform for all the&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">applications to access data from for the reporting needs. Prior to its implementation, each application had their own set of data layer to pull data from. This has resulted in less maintenance and less complexity in processing the data for the downstream applications.</span></p><p><b><br></b></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-family": "'Noto Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a8a8a8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#b9b9b9!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c1c1c1"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-33",
+          "_params": {
+            "bgColor": "#c1c1c1",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Noto Sans",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "css": "'Noto Sans', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-15.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\" target=\"_blank\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-34",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Ana-Data Consulting. All rights reserved."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts1-35",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anadata-logo-header-128x17.png",
               "width": 128,
               "active": true,
               "link": "",
