@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "products.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -1189,7 +1189,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -3477,7 +3477,7 @@
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseFourextAccordion3-22\" aria-expanded=\"false\" aria-controls=\"collapseFour\"><b>File Location</b></a>",
           "text4": "<p>FTP Site<br>Network drive</p><p>. </p>",
           "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseFiveextAccordion3-22\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><b>File Validations and Data Enhancements</b></a>",
-          "text5": "<p>The Dataloader can perform automatic file validations against the gold standar file.</p>",
+          "text5": "<p>The Dataloader can perform automatic file validations against the gold standard file.</p>",
           "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-22\" data-core=\"\" href=\"#collapseSixextAccordion3-22\" aria-expanded=\"true\" aria-controls=\"collapseSix\"><b>Dashboard to monitor daily data feeds.</b></a>",
           "text6": "<p>Display summary data for each feed, total records received, total records process, total errors, duration for each feed, set exception threshold, etc..</p>"
         },
