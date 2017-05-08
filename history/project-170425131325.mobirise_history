@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -26,7 +26,10 @@
     "scrollAnimation": "true",
     "uniqCompNum": 121,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -193,7 +196,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\">&nbsp;Delivering on the Promise of Big Data</span>",
+          "title": "<span style=\"font-weight: normal;\">Delivering on the Promise of Big Data</span>",
           "text": "<span style=\"font-style: normal;\">Services. &nbsp;Solutions. &nbsp;Products.</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -1024,9 +1027,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -1163,7 +1166,7 @@
           "_anchor": "extForm3-8",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
@@ -1206,7 +1209,7 @@
           "subTitle1": "",
           "text1": "Phone: +1 &nbsp;(201)-324-3910&nbsp;<br> Email: <a href=\"mailto:sales@ana-data.com\">sales@ana-data.com</a>",
           "form": {
-            "action": "sales@ana-data.com",
+            "action": "pawandeep.me@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1323,9 +1326,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -1554,9 +1557,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -1611,10 +1614,10 @@
             "paddingBottom": 1,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/first-ny-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/mfa-172x86.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1745,19 +1748,6 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/bayern-sm-484x104.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/mfa-172x86.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1953,7 +1943,7 @@
                     "active": true
                   }
                 },
-                "authorName": "Manager",
+                "authorName": "Suffian A.",
                 "authorBio": "UBS"
               }
             ],
@@ -2027,9 +2017,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -2251,9 +2241,9 @@
           },
           "title": "Services",
           "subtitle": "Decades of experience in delivering technology solutoins.",
-          "feature_title1": "<p><a href=\"services.html#header3-1\" class=\"text-black\">Investment Management Solutions</a><a href=\"services.html#header3-1\" class=\"text-black\"></a></p>",
+          "feature_title1": "<p><a href=\"services.html#header3-1\" class=\"text-black\">Investment Management</a></p>",
           "feature_subtitle1": "Creative and intelligent solutions",
-          "feature_text1": "Ana-Data provides software development services to investment management firms<br><span style=\"letter-spacing: 0px; line-height: 24.99px;\">including asset managers, insurance companies, corporations and REITs.</span><br>",
+          "feature_text1": "Ana-Data is dedicated to providing leading-edge customized solutions to the financial services industry",
           "media1": {
             "iconFont": {
               "active": true,
@@ -2266,7 +2256,7 @@
           },
           "feature_title2": "<p><a href=\"services.html#extTabs1-0\" class=\"text-black\">Risk Management</a></p>",
           "feature_subtitle2": "Optimize your risk.",
-          "feature_text2": "Ana-Data has extensive experience in working with risk management solutions for<br>banks, asset managers, prime brokers, hedge funds dealing with market, credit and liquidly risk.<br>",
+          "feature_text2": "In response to evolving regulatory reporting requirements, our team has delivered complex reporting systems that are easy to use via leveraging our CLEAR Analytics solution.",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2315,7 +2305,7 @@
           },
           "feature_title5": "<p><a href=\"services.html#extFeatures4-2\" class=\"text-black\">Middle and Back Office</a></p>",
           "feature_subtitle5": "End to end operatoins.",
-          "feature_text5": "We have developed&nbsp;software systems that service the middle and back office including functionality in confirmations,<span style=\"letter-spacing: 0px; line-height: 24.99px;\">settlement, documentation, accounting etc.’</span><br>"
+          "feature_text5": "With almost two decades of financial domain experience, Ana-Data has delivered numerous customized solutions to our clients to ensure excellence in operations."
         },
         {
           "_styles": {
@@ -2387,7 +2377,7 @@
           },
           "title1": "Portfolio Management",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Extensive experience working with multi asset class and multi currency portfolio&nbsp;<span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">management systems like Portia, PAM, supporting front to back office environments with real time position, &nbsp;</span>risk and performance reports.<br>",
+          "caption1": "Adopting project portfolio management (PPM) has been proven to complete more projects on-time, increase resource optimization, and accelerate the speed of delivery by connecting resource planning with project execution. ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2402,7 +2392,7 @@
           },
           "title2": "Trade &amp; Order Management",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Experience working with trading systems like Bloomberg, Charles River which focus on&nbsp;<span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">some or all fixed income securities including corporate, government, mortgage backed and asset backed </span>securities of all currencies and trading and execution of Equity securities.<br>",
+          "caption2": "We provide customized solutions designed to execute securities orders in an efficient and cost effective manner providing delightful user experience.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2417,7 +2407,7 @@
           },
           "title3": "Performance Analytics",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Experience, design and development of performance measurement and attribution&nbsp;<span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">platform which gives the investment manager tools to frequently analyze the sources of returns providing&nbsp;</span>timely feedback on the investment process’.<br>",
+          "caption3": "Our Performance Analytics provide secure, simple access to key performance indicators (KPIs) and metrics that enable yo uto be proactive about imporving business services.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2518,7 +2508,7 @@
           },
           "title3": "Client Portfolio Data",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "‘Design and development of CRM system allowing users to setup clients, portfolios, broker&nbsp;<span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">and custodians. Setup portfolio to client hierarchy and setup relationships between clients to brokers and</span><br>client to custodians and option to enter settlement instructions.’<br>",
+          "caption3": "Our portfolio data solutions provide firms with a complete picture of their entire book of business by delivering an automated, reconciled source of portfolio and KPIs.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2533,7 +2523,7 @@
           },
           "title4": "Benchmark Data",
           "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Design, development and experience working with various benchmark/index data from<br><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">Bloomberg, JPM, Barclays, Citi and Bank of America to capture data at the overall index level and as well as a</span><br><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">the constituent security level.</span><br>",
+          "caption4": "We provide customized solutions to make sure accurate benchmark data is delivered to you with precision for precise data analysis.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -2890,9 +2880,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -3254,11 +3244,11 @@
             "overlayColor": "#151515",
             "showTitles": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1f\" aria-expanded=\"false\">Benefits to Your Business</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1f\" aria-expanded=\"true\">Benefits to Your IT Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1f\" aria-expanded=\"false\">Clear Query in Action</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1f\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1f\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1f\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1f\" aria-expanded=\"true\">Benefits to Your Business</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1f\" aria-expanded=\"false\">Benefits to Your IT Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1f\" aria-expanded=\"false\">Clear Query in Action</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1f\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1f\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1f\">Beautiful</a></li>",
           "title1": "Self Service Queries | Instant Data Analysis | Intutive Design",
           "text1": "Clear Query comprises of the most complete set of querying functions with a rich user interface that allows users to focus on their business process whilst we take care of the technology. Using Clear Query, the user can select data and design queries without understanding how the data is accessed and where it is stored.<br><br>With Clear Query, one-click interactions quickly perform data analysis and refine queries on the fly to extract on the data you need. Users and analysts have a faster and easier way to access data from inside and outside your organization enabling you to make better-informed business decisions.<br><br>Allow data from disparate systems to be exposed through one simple common interface. The intuitive graphical user interface empowers users to define exactly what they are looking for and thus transforming your business data into actionable datasets instantly.<br>",
           "title2": "Flexible Design | Transparency | Data Protection",
-          "text2": "Clear Query is designed to be flexible, enabling users to create and share queries very quickly and efficiently. You can even create new data sources and define fields easily by setting up new data connections using our intuitive wizards.<br><br>A major concern for many IT teams is the risk of ‘runaway’ queries and non-optimized queries causing extra burden on the infrastructure. Our services ensures your administrators restrict the number of connections, the length of time a query and run and also provides details of all slow performing queries. Giving administrators all the information they need to help the business get the data they need without compromising the integrity of your technology infrastructure.<br><br>",
+          "text2": "Clear Query is designed to be flexible, enabling users to create and share queries very quickly and efficiently. You can even create new data sources and define fields easily by setting up new data connections using our intuitive wizards.<br><br>All Queries are fully version controlled and a value shown in a Clear Analytics report can easily be traced back to the exact version of the executed query. This unprecedented capability of tracking a number in Excel right back to the executed SQL statement ensures full end-to-end traceability of your data.<br><br>A major concern for many IT teams is the risk of ‘runaway’ queries and non-optimized queries causing extra burden on the infrastructure. Our services ensures your administrators restrict the number of connections, the length of time a query and run and also provides details of all slow performing queries. Giving administrators all the information they need to help the business get the data they need without compromising the integrity of your technology infrastructure.<br><br>",
           "title3": "Client Reports | Management Reports | Operational Reports",
           "text3": "Compiling month-end reports is challenging when business users get locked into to assembling specific reports. Clear Query alleviates the problem of business users generating reports from disparate systems to create a client package by consolidating the reporting system. Generate well-formatted reports for clients with a few clicks, including month-end balances, sector exposure, performance reports, transactions, and more.<br><br>Design and deliver timely, accurate management and performance reports: Clear Query allows senior management to get a bird’s eye view of their company position in the form of dashboards and standard reports. Generate AUM reports by different classifications and in addition provide detailed reports by client, portfolio, asset class, industry, ratings, country, currency, and more.<br><br>Easily create the standard and ad hoc reports that operations uses day to day, including positions, transactions, pricing, reconciliation, cash, projections, exception reports, and more. Each report can be run in different combinations giving the user a wide variety of report selections.<br><br>",
           "title4": "Tab heading 4",
@@ -3364,7 +3354,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p>Clear Price Master is a system developed on CLEAR platform to automate the daily valuatoin of securities of interest. It provides a centralized pricing system for the front and back office with a full audit trail, pricing policy enforcement historical reporting functionality.&nbsp;</p><p><br></p><p>Pricing Vendors supported are IDC, Bloomberg, Markit, LPC and other broker prices through manual upload. Some of the standard reports supported are Price Variance, Missing Prices, Stale Prices, Zero Prices.</p><p><br></p><p><b>Here are some of the benefits of Clear Price Master:</b></p>"
+          "text": "<p>Clear Price Master is a system developed on CLEAR platform to automate the daily valuatoin of securities of interest. It provides a centralized pricing system for the front and back office with a full audit trail, pricing policy enforcement historical reporting functionality. It provides following key capabilities: Allows personnel to focus on checking exceptions rather than finding them in the raw data, rules to analyze price variances, price exceptions and determining preferred, easy to use Review, Override and Update User Interface, Automatic application of Company's Pricing Policy, Streamlines the pricing workflow with consolidated, automated vendor pricing allowing for an increased focus on price quality.</p><p><br></p><p>Pricing Vendors supported are IDC, Bloomberg, Markit, LPC and other broker prices through manual upload. Some of the standard reports supported are Price Variance, Missing Prices, Stale Prices, Zero Prices.</p><p><br></p><p><b>Here are some of the benefits of Clear Price Master:</b></p>"
         },
         {
           "_tags": [
@@ -3528,9 +3518,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -3901,7 +3891,7 @@
             "overlay": true,
             "overlayOpacity": 0.6,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": 3,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -4043,10 +4033,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1409-2000x1333-56-2000x1333-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1409-2000x1333-56.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -4094,7 +4084,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0882-2000x1338-89-2000x1338-58.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0882-2000x1338-89.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -4127,6 +4117,23 @@
             "bgColor": "#fff"
           },
           "text": "<p>It’s really the people that make Ana-Data the kind of company it is. We hire people who are smart and determined, and we favor ability over experience. Although all of us  share common goals and visions for the company, we hail from all walks of life and speak dozens of languages, reflecting the global audience that we serve. And when not at work, we  pursue interests ranging from cycling to beekeeping, from frisbee to foxtrot.</p><p><br></p><p>We strive to maintain the open culture often associated with startups, in which everyone is a hands-on contributor and feels comfortable sharing ideas and opinions. In our weekly all-hands (“TGIF”) meetings—not to mention over email or in the cafe—We  ask questions directly to Lal and other execs about any number of company issues. Our offices  are designed to encourage interactions between employees within and across teams, and to spark conversation about work as well as play.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "Social @ Ana-Data",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "twitterName": "anadata",
@@ -4224,9 +4231,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -4938,9 +4945,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -5211,9 +5218,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -5594,9 +5601,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -5649,18 +5656,18 @@
             "Theme"
           ],
           "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
           "_anchor": "content1-30",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Overview:<br></b></p><p>After years of manual reconciliation the global&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">institutional fixed income investment management firm&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">was ready to move to an automated position and cash&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">reconciliation system between firms accounting and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">trading systems and between accounting system and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">custodians. Before the automated system was&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">implemented the firm manually used to download end of&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">day positions and cash from firms accounting system in a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">spreadsheet and then downloaded the same from trading&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">system and used to reconcile the data using scripts and</span></p><p>macros which was a spreadsheet based reconciliation. As&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">you can imagine it was time consuming and prone to&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">error.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Solution:</b></p><ul><li>Ana-Data was engaged to develop and implement the&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">company reconciliation system</span></li></ul><ul><li>Feed processing framework service collects,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">aggregates and normalizes the data across numerous</span></li></ul><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; internal and external data sources including&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">proprietary formats or SWIFT using in-house data&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">transformation rules</span></p><ul><li>Internally developed reconciliation engine that&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">compares data allowing user defined tolerances</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Internally developed workflow tool to prioritize&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">position breaks by portfolio, by portfolio security, by&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">security, by exception</span></li><li>Security identifier mapping allows user to map&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">internal security identifier to external securities if&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">they are similar securities</span></li><li>Resolve/Comments: Option to allow users to add&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">comments to recon breaks and tag them as&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">permanent exceptions if needed.</span></li><li>Daily first level and second level of sign off by&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">operation users</span></li><li>Daily recon results are preserved for compliance</li><li>All break history is preserved and persisted over time</li><li>Recon aging reports by breaks</li><li>Sign off reports by account and vendors</li></ul><p><br></p><p><b>Benefits:</b></p><ul><li>Automated recon system reduced the manual daily reconciliation effort by more than 50%</li><li>Staffs freed from reconciliation to concentrate on core competencies</li><li>Supports best practices by allowing routine and granular reconciliation of security position</li><li>Verifies integrity of portfolio and securities, comparing position, cash and transaction activities from custodians</li><li>Allows timely identification and resolution to exception and breaks</li><li>Reduce noise by tagging breaks as permanent breaks if they appear day over day</li><li>Allows users to tag breaks with comments either as a one time exception or add to list of standard comments</li></ul><p><br></p>"
+          "text": "<p><b>Overview:<br></b></p><p>After years of manual reconciliation the global&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">institutional fixed income investment management firm&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">was ready to move to an automated position and cash&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">reconciliation system between firms accounting and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">trading systems and between accounting system and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">custodians. Before the automated system was&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">implemented the firm manually used to download end of&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">day positions and cash from firms accounting system in a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">spreadsheet and then downloaded the same from trading&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">system and used to reconcile the data using scripts and</span></p><p>macros which was a spreadsheet based reconciliation. As&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">you can imagine it was time consuming and prone to&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">error.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Solution:</b></p><ul><li>Ana-Data was engaged to develop and implement the&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">company reconciliation system</span></li></ul><ul><li>Feed processing framework service collects,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">aggregates and normalizes the data across numerous</span></li></ul><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; internal and external data sources including&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">proprietary formats or SWIFT using in-house data&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">transformation rules</span></p><ul><li>Internally developed reconciliation engine that&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">compares data allowing user defined tolerances</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Internally developed workflow tool to prioritize&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">position breaks by portfolio, by portfolio security, by&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">security, by exception</span></li><li>Security identifier mapping allows user to map&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">internal security identifier to external securities if&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">they are similar securities</span></li><li>Resolve/Comments: Option to allow users to add&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">comments to recon breaks and tag them as&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">permanent exceptions if needed.</span></li><li>Daily first level and second level of sign off by&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">operation users</span></li><li>Daily recon results are preserved for compliance</li><li>All break history is preserved and persisted over time</li><li>Recon aging reports by breaks</li><li>Sign off reports by account and vendors</li></ul><p><br></p><p><b>Benefits:</b></p><ul><li>Automated recon system reduced the manual daily reconciliation effort by more than 50%</li><li>Staffs freed from reconciliation to concentrate on core competencies</li><li>Supports best practices by allowing routine and granular reconciliation of security position</li><li>Verifies integrity of portfolio and securities, comparing position, cash and transaction activities from custodians</li><li>Allows timely identification and resolution to exception and breaks</li><li>Reduce noise by tagging breaks as permanent breaks if they appear day over day</li><li>Allows users to tag breaks with comments either as a one time exception or add to list of standard comments</li></ul><p><br></p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -5822,9 +5829,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -6050,9 +6057,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     },
@@ -6278,9 +6285,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
+          "text1": "<strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"blog.html\" class=\"text-black\">Blog</a><br><a href=\"about.html\" class=\"text-black\">News</a><br><a href=\"index.html#extTestimonials5-2h\" class=\"text-black\">Partners</a><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
       ]
     }
