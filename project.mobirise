@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -26,10 +26,7 @@
     "scrollAnimation": "true",
     "uniqCompNum": 128,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -1029,7 +1026,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -1192,7 +1189,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -1328,7 +1325,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -1559,7 +1556,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -1617,7 +1614,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/first%20ny-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/first-ny-160x160.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2032,7 +2029,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -2895,7 +2892,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -3533,7 +3530,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -4229,7 +4226,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -4943,7 +4940,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -5216,7 +5213,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -5599,7 +5596,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -5827,7 +5824,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -6055,7 +6052,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -6283,7 +6280,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -6566,7 +6563,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"blog.html\" class=\"text-black\">Blog<br></a><a href=\"contact.html\" class=\"text-black\"></a></p>"
         }
       ]
     }
