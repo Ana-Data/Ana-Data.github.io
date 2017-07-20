@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page14.html",
+    "currentPage": "about.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -1192,7 +1192,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -3915,7 +3915,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/marc7-1400x957-64.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ranjit_pic1%20copy-1400x984.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3934,9 +3934,9 @@
             }
           },
           "number1": "",
-          "title1": "<br><br><br>Marc Davis",
-          "subtitle1": "Director - Business Development",
-          "caption1": "Marc has more than 25 years of experience in the Staffing and Recruiting Industry with focus of the financial services and Pharmaceutical industries. Throughout his career, he has built and managed sales teams, while also been responsible for generating millions of dollars of sales revenue year after year.",
+          "title1": "<br><br><br>Ranjit Chauhan",
+          "subtitle1": "HR - Operations &nbsp;",
+          "caption1": "Ranjit has years of experience in Talent Management and HR Operations and is adept at managing employees relations, performing orientations, payroll and HR compliance. He has a Bachelor’s in Accounting and Law and is also a member of Society of Human Resource Management.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -3963,13 +3963,13 @@
           "number2": "",
           "title2": "<br><br><br>Vipul Gupta",
           "subtitle2": "Director - Technology",
-          "caption2": "Vipul has more than a decade of experience in software engineering and development management. With financial services experience and a foundation in mission critical applications including document management systems, he brings his skill and discipline to enterprise  gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption2": "Vipul has more than a decade of experience in software engineering and development management. With financial services experience and a foundation in mission critical applications including document management systems, he brings his skill and discipline to enterprise  giving them the freedom to develop as many portals, given the fact that it is a desktop app.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dipak4-1400x957-12.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pawan-1400x1002.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3988,9 +3988,9 @@
             }
           },
           "number3": "",
-          "title3": "<br><br><br>Dipak Bhudia",
-          "subtitle3": "Product Architect<br>",
-          "caption3": "Dipak has over a decade of experience delivering finance technology solutions. Dipak's unique background and proficiency in design helps wrap complex system workflows and Business Intelligence solutions into simple and user friendly solutions enabling exceptional rates of user adoption.&nbsp; &nbsp; &nbsp;&nbsp;",
+          "title3": "<br><br><br>Pawandeep Singh",
+          "subtitle3": "Senior Engineer - Product Development<br>",
+          "caption3": "Pawan is passionate about developiong data driven apps that give users a delightful experience. His interests lie at the intersection of Mathematics, Machine Learning and Statistics. He is currently focused on integrating Machine Learning and Big Data into new products.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
