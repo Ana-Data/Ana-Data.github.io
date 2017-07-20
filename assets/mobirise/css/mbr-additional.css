@@ -2182,19 +2182,19 @@ h6,
 }
 #menu-3d .link[aria-expanded="true"],
 #menu-3d .dropdown-menu {
-  background: #a8a8a8;
+  background: #d6d6d6;
 }
 #menu-3d .nav-dropdown-sm .link:focus,
 #menu-3d .nav-dropdown-sm .link:hover,
 #menu-3d .nav-dropdown-sm .dropdown-item:focus,
 #menu-3d .nav-dropdown-sm .dropdown-item:hover {
-  background: #b9b9b9!important;
+  background: #e7e7e7!important;
 }
 #menu-3d .navbar,
 #menu-3d .nav-dropdown-sm,
 #menu-3d .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3d .nav-dropdown-sm .dropdown-menu {
-  background: #c1c1c1;
+  background: #efefef;
 }
 #menu-3d .bg-color.transparent .link {
   color: #000000;
