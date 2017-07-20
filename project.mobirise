@@ -26,7 +26,10 @@
     "scrollAnimation": "true",
     "uniqCompNum": 134,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1614,7 +1617,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/first-ny-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/first%20ny-160x160.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3912,7 +3915,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ranjit-pic1-copy-1400x984.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ranjit_pic1%20copy-1400x984.jpg",
               "link": "",
               "alt": "",
               "title": "",
