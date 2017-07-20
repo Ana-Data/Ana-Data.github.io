@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -26,10 +26,7 @@
     "scrollAnimation": "true",
     "uniqCompNum": 128,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -287,10 +284,10 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "et-line",
+              "name": "responsive",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "Advanced_Fraud_Protection.html",
+              "link": "Identity_Access_Management.html",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -1192,7 +1189,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -1617,7 +1614,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/first%20ny-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/first-ny-160x160.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
