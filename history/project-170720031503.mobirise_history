@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "products.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -24,7 +24,7 @@
       }
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 128,
+    "uniqCompNum": 121,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "publishFtpPath": "public_html",
@@ -221,7 +221,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "<span style=\"font-weight: normal;\">Big Business Impact With Ana-Data Services</span>",
+          "title": "<span style=\"font-weight: normal;\">Big Business Impact from Big Data Analytics</span>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -296,9 +296,9 @@
               "newWindow": false
             }
           },
-          "title2": "Identity Access Management<br>System",
+          "title2": "Advanced Fraud Protection<br>Using Predictive Analytics",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Improved security with enhanced role<br>management and full security audit.<br>",
+          "caption2": "Advanced machine learning algorithms&nbsp;<br>used to detect and prevent fraud.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -315,7 +315,7 @@
           },
           "title3": "Automatic Reconciliation <br>System&nbsp;<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Reduced daily reconciliation effort by <br>over 50%.<br>",
+          "caption3": "Reduced daily reconciliation effort by&nbsp;<br>over 50%.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1029,7 +1029,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -1192,7 +1192,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -1251,7 +1251,7 @@
           },
           "text1": "<p><b>US Headquarters</b></p><p><br></p><p>Ana-Data Consulting, Inc.</p><p>30 Montgomery St.., &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Suite # 1245</span></p><p>Jersey City, NJ -&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">07302</span></p><p><br></p><p>Phone :\t+1 (201) 324-3910</p><p>Fax :\t+1 (551)-236-1014</p><p>Email :\tsales@ana-data.com</p><p><br></p>",
           "text2": "<p><b>Canada Office</b></p><p><br></p><p>Ana-Data Consulting, Inc.</p><p>161 Bay St. Suite # 2697&nbsp;</p><p>Toronto, Ontario. M5J 2S1</p><p><br></p><p>Phone :\t+1 (201) 324-3910</p><p>Fax :\t+1 (551)-236-1014</p><p>Email :\tsales@ana-data.com</p><p><br></p>",
-          "text3": "<p><b>Offshore Office</b></p><p><br></p><p>Clear R&amp;D</p><p>#2A, Bhanumathi Ramakrishna Road,</p><p>Saligramam, Chennai, India. <span style=\"font-size: 1.07rem; line-height: 1.5;\">600093</span></p><p><br></p><p>Phone :\t+91 (893)-904-0007</p><p>Email :\tsales@ana-data.com</p><p><br></p>"
+          "text3": "<p><b>Offshore Office</b></p><p><br></p><p>Clear R&amp;D</p><p>E7, 1st Floor, Sector - 3&nbsp;</p><p>Noida, UP, India. .<span style=\"font-size: 1.07rem; line-height: 1.5;\">201303</span></p><p><br></p><p>Phone :\t+1 (609)-454-8993</p><p>Email :\tsales@ana-data.com</p><p><br></p>"
         },
         {
           "_styles": {
@@ -1328,7 +1328,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -1559,7 +1559,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -1980,7 +1980,7 @@
             "showBullets": true
           },
           "_anchor": "extTestimonials2-0",
-          "title": "WHAT OUR CLIENTS SAY",
+          "title": "WHAT OUR FANTASTIC CLIENTS SAY",
           "subtitle": "Customers Satisfaction is priceless."
         },
         {
@@ -2032,7 +2032,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -2268,7 +2268,7 @@
             }
           },
           "feature_title2": "<p><a href=\"services.html#extTabs1-0\" class=\"text-black\">Risk Management</a></p>",
-          "feature_subtitle2": "Minimize your risk.",
+          "feature_subtitle2": "Optimize your risk.",
           "feature_text2": "Ana-Data has extensive experience in working with risk management solutions for<br>banks, asset managers, prime brokers, hedge funds dealing with market, credit and liquidly risk.<br>",
           "media2": {
             "iconFont": {
@@ -2433,9 +2433,9 @@
               "family": "et-line"
             }
           },
-          "title4": "Client Portfolio Data",
+          "title4": "Compliance",
           "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "‘Design and development of CRM system allowing users to setup clients, portfolios, broker and custodians. Setup portfolio to client hierarchy and setup relationships between clients to brokers and<br>client to custodians and option to enter settlement instructions.’<br>",
+          "caption4": "Our custom solutions are designed to meet your regulatory compliance, Tax Rating and Tax preparation needs.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -2489,9 +2489,9 @@
               "family": "et-line"
             }
           },
-          "title1": "Benchmark Data",
+          "title1": "Asset Allocation",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Design, development and experience working with various benchmark/index data from<br>Bloomberg, JPM, Barclays, Citi and Bank of America to capture data at the overall index level and as well as a<br>the constituent security level.<br>",
+          "caption1": "Ana-data offers assest allocation solutions to enhance your portfolio and create a consistent investment structure to help you stay focused on long-term goals.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2504,9 +2504,9 @@
               "family": "et-line"
             }
           },
-          "title2": "",
+          "title2": "Custody Data",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "",
+          "caption2": "We ensure defensible collection using the industry's most advanced tools, strictly adhering to chain of custody, data integiry and cost considerations.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2519,9 +2519,9 @@
               "family": "et-line"
             }
           },
-          "title3": "",
+          "title3": "Client Portfolio Data",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "",
+          "caption3": "‘Design and development of CRM system allowing users to setup clients, portfolios, broker&nbsp;<span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">and custodians. Setup portfolio to client hierarchy and setup relationships between clients to brokers and</span><br>client to custodians and option to enter settlement instructions.’<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2534,9 +2534,9 @@
               "family": "et-line"
             }
           },
-          "title4": "",
+          "title4": "Benchmark Data",
           "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "",
+          "caption4": "Design, development and experience working with various benchmark/index data from<br><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">Bloomberg, JPM, Barclays, Citi and Bank of America to capture data at the overall index level and as well as a</span><br><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">the constituent security level.</span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -2895,7 +2895,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -3533,7 +3533,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -4229,7 +4229,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -4943,7 +4943,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -5216,7 +5216,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -5599,7 +5599,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -5827,7 +5827,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
@@ -6055,14 +6055,14 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     },
-    "Identity_Access_Management.html": {
+    "Advanced_Fraud_Protection.html": {
       "settings": {
-        "title": "Identity Access Management",
-        "meta_descr": "Identity Access Management."
+        "title": "Advanced Fraud Protection",
+        "meta_descr": "Advanced Fraud Protection"
       },
       "components": [
         {
@@ -6099,7 +6099,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<span style=\"font-weight: normal;\">Identity Access Management System</span>",
+          "title": "<span style=\"font-weight: normal;\">Advanced Fraud Protection&nbsp;</span><br><span style=\"font-weight: normal;\">with </span><br><span style=\"font-weight: normal;\">Predictive Analytics</span>",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -6119,7 +6119,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Overview:<br></b></p><p>A global commercial bank having a branch office in NY,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">New York Branch offers banking and financial services&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">wanted to enhance the security of the system, enhanced&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">role management and implement a full security&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">audit. The current system presented several security&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">concerns. This meant that there were a variety of security&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">features spread across the applications. The&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">main problem was inconsistent authentication</span></p><p>mechanisms, with different standards coupled with weak&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">password management.</span></p><p><br></p><p>This decision put several hurdles in our path. First was the&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">problem of Access control. In the old system access&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">control was implemented at granular level i.e. the number&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">of Roles in the system was too high which resulted in poor&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">access management and little or no audit. While it would&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">have been possible to make the application audit</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">compliant, the expense and time it would have taken&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">were hard to justify and in the end it would have still been</span></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Solution:</b></p><p><b><br></b></p><ul><li>Ana-Data was engaged to design, develop and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">implement the company’s centralized privileged user&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Authentication and Authorization Management&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">framework&nbsp;</span></li><li>Designed and developed a single sign-on system using&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">NT authentication and moved the access control to&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">LDAP groups. i.e. Roles are created as groups in LDAP.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Users were added to the respective groups</span></li><li>Ana-Data created a reusable security module to&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">handle the authentication of users based on the LDAP&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">roles (groups)</span></li><li> Ana-Data also updated the system with latest&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">technology and implemented single sign on feature&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">which removed the necessity to maintain password in&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">the database</span></li><li> Implement Role Based Access Control (RBAC)</li></ul><p><br></p><p><b>Benefits:</b></p><ul><li>Efficient implementation of inter-application access using a flexible security system</li><li>Single sign-on for all users and different applications</li><li>Don’t need to remember password</li><li>By implementing single sign-on, the security concerns related to weak password were eliminated.</li><li>Integration of the system with the LDAP enforced strict access control supporting Role Based Access Control (RBAC)</li><li>All requests for role changes are submitted through a central ticketing system which has full audit trail.</li><li>Since the security module is reusable, it is possible to use the same for all applications in the company. This ensures standard security practice.</li><li>For compliance daily automated notification of new users added or removed from the system including users added and removed from groups</li><li>Full access control at page, view or function leve</li></ul><p><br></p>"
+          "text": "<p><b>Overview:<br></b></p><p>The system was using a outdated fraud prevention system which was being exploited. &nbsp;The challenge was to repace this outdated and&nbsp;</p><p>complicated fraud system with state of the art Fraud detection and prevention system. Reducing the false positive rate and improving the credit line management.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Solution:</b></p><p><b><br></b></p><ul><li>Delivered an updated, modern fraud and risk management solution with fully supervised machine learning based algorithms.</li><li>Provide a more accurate scoring model based on big data sources and advanced predictive analytics. Leverage big data for expanded analytics on both positive and negative factors history.</li><li>Used 3rd party API's to gather more information about the incoming traffic and to discern genuine traffic and study traffic patterns.</li></ul><p><br></p><p><b>Benefits:</b></p><ul><li>Reduction in false positives</li><li>Improved credit line management for high income consumers.</li></ul><p><br></p>"
         },
         {
           "_styles": {
@@ -6283,290 +6283,7 @@
           },
           "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
-        }
-      ]
-    },
-    "news.html": {
-      "settings": {
-        "title": "Ana-Data in news",
-        "meta_descr": "Ana-Data in News"
-      },
-      "components": [
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-3h",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "News @ Ana-Data",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-3i",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "Thought Leadership Event",
-          "text": "<p>Ana-Data hosted their first ever thought leadership event at Citco's offices in midtown Manhattan organized by On the Ball.<br><b>July 20, 2017<br></b><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.prweb.com/releases/2017/06/prweb14401487.htm\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-3j",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "CIOReview: Ana-Data Redefining Data Analytics",
-          "text": "<p>CIOReview interviews Ana-Data CEO Lalji Vaghji to find how it is helping it's clients realize the potential of Big Data.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://bigdata.cioreview.com/vendor/2016/ana-data_consulting\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-family": "'Noto Sans', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-3d",
-          "_params": {
-            "bgColor": "#c1c1c1",
-            "fontSize": "0.8",
-            "fontName": {
-              "name": "Noto Sans",
-              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "css": "'Noto Sans', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/anadata-logo-116x128-15.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">&nbsp;HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">&nbsp;ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"products.html\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"http://www.clearanalyticsbi.com/free-trial/\" target=\"_blank\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-3e",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Ana-Data Consulting. All rights reserved."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000",
-              "font-size": "18px"
-            },
-            "SPAN": {
-              "color": "#000000",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "contacts1-3f",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/anadata-logo-header-128x17.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<p><strong>Products</strong><br><a href=\"products.html\" class=\"text-black\">Clear Query</a><br><a href=\"products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"products.html\" class=\"text-black\">Clear Data loader</a><a href=\"products.html\" class=\"text-black\"></a><a href=\"products.html\" class=\"text-black\"></a><br><a href=\"products.html\" class=\"text-black\">Clear Price Master</a></p>",
-          "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"news.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a><br><a href=\"contact.html\" class=\"text-black\">Partners</a><br><a href=\"contact.html\" class=\"text-black\">News</a><br><a href=\"contact.html\" class=\"text-black\">Blog<br></a>"
         }
       ]
     }
