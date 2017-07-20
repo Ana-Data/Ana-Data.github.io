@@ -26,7 +26,10 @@
     "scrollAnimation": "true",
     "uniqCompNum": 128,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1614,7 +1617,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/first-ny-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/first%20ny-160x160.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -6398,7 +6401,7 @@
             "showButton": true
           },
           "title": "CIOReview: Ana-Data Redefining Data Analytics",
-          "text": "<p>CIOReview interviews Ana-Data CEO Lalji Vaghji to find how it is helping it's clients realize the potential of Big Data.</p>",
+          "text": "<p>CIOReview interviews Ana-Data CEO Lalji Vaghji to find how it is helping it's clients realize the potential of Big Data.<br><b>Sep 19, 2016</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://bigdata.cioreview.com/vendor/2016/ana-data_consulting\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
         },
         {
