@@ -1230,6 +1230,9 @@ h6,
 #header3-3s .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3s P {
+  text-align: right;
+}
 #header3-2 .mbr-section-title,
 #header3-2 .mbr-section-subtitle {
   text-align: center;

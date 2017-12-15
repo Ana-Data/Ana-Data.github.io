@@ -2604,6 +2604,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -2617,7 +2620,7 @@
             "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "Corporate Training",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corporate Training</p>",
           "meta": ""
         },
         {
