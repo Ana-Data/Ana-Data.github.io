@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services.html",
+    "currentPage": "news.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "USA SIte",
@@ -24,9 +24,12 @@
       }
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 136,
+    "uniqCompNum": 134,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": ""
@@ -68,13 +71,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1617,7 +1620,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/first-ny-160x160.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/first%20ny-160x160.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2103,13 +2106,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2586,7 +2589,7 @@
             "overlayColor": "#151515",
             "showTitles": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-0\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-0\" aria-expanded=\"true\">Offerings</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-0\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-0\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-0\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-0\" aria-expanded=\"true\">Offerings</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-0\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-0\">Beautiful</a></li>",
           "title1": "Let Your Data Work For You",
           "text1": "Whether data is local, in the cloud or both, you are quickly inundated with massive amounts of information. Social media, intranet collaboration systems and other data sources pose big challenges. But the volume, velocity, variety and complexity of Big data can also be a huge corporate asset that you must exploit in order to thrive.<br><br>Don't get buried. We have the experience, skills and tools you require to turn your business problems into business insights.<br>",
           "title2": "Big Data Strategic Overview",
@@ -2599,39 +2602,6 @@
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3q",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "Corporate Training",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3r",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Ana-Data Consulting Inc. provides IT training on Big Data, Artificial Intelligence, Machine learning and  Cyber Security. We have state of the art training center to offer these courses to both individuals and other firms. We offer courses both in a class room setting and via internet on a one to one basis. The course duration could range from few days to few weeks. We provide our own Certifications to attendees that pass our tests and can demonstrate the mastery and proficiency in the subject matter. We collaborate with local universities and schools to complement and provide more hands on training. We leverage our gold partner relationship with Microsoft and provide training on  Microsoft products. We currently offer training in various business intelligence technologies such as, Java, Big Data/Hadoop and Scala at client locations.</p>"
         },
         {
           "_styles": {
@@ -3948,7 +3918,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ranjit-pic1-copy-1400x984.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ranjit_pic1%20copy-1400x984.jpg",
               "link": "",
               "alt": "",
               "title": "",
