@@ -2606,7 +2606,7 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -2620,7 +2620,7 @@
             "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corporate Training</p>",
+          "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Corporate Training</p>",
           "meta": ""
         },
         {
